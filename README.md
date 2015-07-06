@@ -1,7 +1,7 @@
 # Protect your privacy
 Protect your privacy. Originally hosted on Tumblr, bringing it to Github so that others may contribute. 
 
-All feedback re: content and formatting welcomed. Look for _fully_ open source tools, not just opened encryption implementation.
+All feedback re: content and formatting welcomed. Look for _fully_ open source tools, not just opened encryption implementation etc.
 
 Inspired by CITIZENFOUR, and my Computer Forensics and Information Security studies during my MSc. 
 
