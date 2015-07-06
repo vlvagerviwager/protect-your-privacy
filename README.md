@@ -30,7 +30,7 @@ Inspired by CITIZENFOUR, and my Computer Forensics and Information Security stud
 * ZenMate - Chrome extension, encrypts and secures your connection. https://zenmate.com/
 
 ## Facebook
-* Get your loved ones off Facebook. by SaintSal - http://saintsal.com/facebook/
+* Get your loved ones off Facebook., by SaintSal - http://saintsal.com/facebook/
 * Reasons not to use (i.e., be used by) Facebook, by Richard Stallman - https://stallman.org/facebook.html
 
 ## General news / info
