@@ -1,7 +1,7 @@
 # Protect your privacy
 Protect your privacy. Originally hosted on Tumblr, bringing it to Github to make it easier for others to contribute.
 
-All feedback re: content and formatting welcomed. Look for _fully_ open source tools, not just opened encryption implementation etc.
+All feedback re: content and formatting welcomed. Look for _fully_ open source tools, not just opened encryption implementation etc. European data protection laws tend to be stronger. 
 
 Inspired by CITIZENFOUR, and my Computer Forensics and Information Security studies during my MSc. 
 
@@ -38,6 +38,6 @@ Inspired by CITIZENFOUR, and my Computer Forensics and Information Security stud
 * Enemies of the Internet - http://surveillance.rsf.org/en/
 * The 7 Privacy Tools Essential to Making Snowden Documentary CITIZENFOUR - http://www.angrysummit.com/the-7-privacy-tools-essential-to-making-snowden-documentary-citizenfour
 
-## Bring some popcorn
+## Get some popcorn
 * Hacking Team gets hacked - http://www.csoonline.com/article/2943968/data-breach/hacking-team-hacked-attackers-claim-400gb-in-dumped-data.html
 * Documentary: Ai Weiwei: Never Sorry 
