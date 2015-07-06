@@ -29,7 +29,7 @@ Taking contributions and feedback re: format.
 
 ## General news / info
 * The Intercept - https://firstlook.org/theintercept/
-* Enemies of the Internet - http://surveillance.rsf.org/en/category/corporate-enemies/ 
+* Enemies of the Internet - http://surveillance.rsf.org/en/
 
 ## Bring some popcorn
 
