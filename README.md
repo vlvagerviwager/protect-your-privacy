@@ -40,3 +40,4 @@ Inspired by CITIZENFOUR, and my Computer Forensics and Information Security stud
 
 ## Bring some popcorn
 * Hacking Team gets hacked - http://www.csoonline.com/article/2943968/data-breach/hacking-team-hacked-attackers-claim-400gb-in-dumped-data.html
+* Documentary: Ai Weiwei: Never Sorry 
