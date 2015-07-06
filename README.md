@@ -27,9 +27,14 @@ Taking contributions and feedback re: format.
 ## VPN
 * ZenMate - Chrome extension, encrypts and secures your connection. https://zenmate.com/
 
+## Facebook
+* Get your loved ones off Facebook. - SaintSal - http://saintsal.com/facebook/
+*Reasons not to use (i.e., be used by) Facebook - Richard Stallman - https://stallman.org/facebook.html
+
 ## General news / info
 * The Intercept - https://firstlook.org/theintercept/
 * Enemies of the Internet - http://surveillance.rsf.org/en/
+* The 7 Privacy Tools Essential to Making Snowden Documentary CITIZENFOUR - http://www.angrysummit.com/the-7-privacy-tools-essential-to-making-snowden-documentary-citizenfour
 
 ## Bring some popcorn
 
