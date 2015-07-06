@@ -37,5 +37,4 @@ Taking contributions and feedback re: format.
 * The 7 Privacy Tools Essential to Making Snowden Documentary CITIZENFOUR - http://www.angrysummit.com/the-7-privacy-tools-essential-to-making-snowden-documentary-citizenfour
 
 ## Bring some popcorn
-
 * Hacking Team gets hacked - http://www.csoonline.com/article/2943968/data-breach/hacking-team-hacked-attackers-claim-400gb-in-dumped-data.html
