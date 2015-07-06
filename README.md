@@ -30,8 +30,8 @@ Inspired by CITIZENFOUR, and my Computer Forensics and Information Security stud
 * ZenMate - Chrome extension, encrypts and secures your connection. https://zenmate.com/
 
 ## Facebook
-* Get your loved ones off Facebook. - SaintSal - http://saintsal.com/facebook/
-* Reasons not to use (i.e., be used by) Facebook - Richard Stallman - https://stallman.org/facebook.html
+* Get your loved ones off Facebook. by SaintSal - http://saintsal.com/facebook/
+* Reasons not to use (i.e., be used by) Facebook, by Richard Stallman - https://stallman.org/facebook.html
 
 ## General news / info
 * The Intercept - https://firstlook.org/theintercept/
@@ -41,3 +41,4 @@ Inspired by CITIZENFOUR, and my Computer Forensics and Information Security stud
 ## Get some popcorn
 * Hacking Team gets hacked - http://www.csoonline.com/article/2943968/data-breach/hacking-team-hacked-attackers-claim-400gb-in-dumped-data.html
 * Ai Weiwei: Never Sorry - documentary
+* Ai Weiwei is Living in Our Future - https://medium.com/@hansdezwart/ai-weiwei-is-living-in-our-future-474e5dd15e4f
