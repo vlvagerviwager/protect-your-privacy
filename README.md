@@ -31,7 +31,7 @@ Inspired by CITIZENFOUR, and my Computer Forensics and Information Security stud
 
 ## Facebook
 * Get your loved ones off Facebook. - SaintSal - http://saintsal.com/facebook/
-*Reasons not to use (i.e., be used by) Facebook - Richard Stallman - https://stallman.org/facebook.html
+* Reasons not to use (i.e., be used by) Facebook - Richard Stallman - https://stallman.org/facebook.html
 
 ## General news / info
 * The Intercept - https://firstlook.org/theintercept/
