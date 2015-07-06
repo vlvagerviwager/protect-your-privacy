@@ -30,7 +30,7 @@ Taking contributions and feedback re: format.
 ## General news / info
 * The Intercept - https://firstlook.org/theintercept/
 * Enemies of the Internet - http://surveillance.rsf.org/en/category/corporate-enemies/ 
-* 
+
 ## Bring some popcorn
 
 * Hacking Team gets hacked - http://www.csoonline.com/article/2943968/data-breach/hacking-team-hacked-attackers-claim-400gb-in-dumped-data.html
