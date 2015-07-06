@@ -1,5 +1,5 @@
 # Protect your privacy
-Protect your privacy. Originally hosted on Tumblr, bringing it to Github so that others may contribute. 
+Protect your privacy. Originally hosted on Tumblr, bringing it to Github to make it easier for others to contribute.
 
 All feedback re: content and formatting welcomed. Look for _fully_ open source tools, not just opened encryption implementation etc.
 
@@ -14,7 +14,7 @@ Inspired by CITIZENFOUR, and my Computer Forensics and Information Security stud
 * ixquick - the world’s most private search engine https://ixquick.com/
 
 ## Operating system
-* Tails OS - portable amnesiac live opearting system, aimed at protecting privacy; used by Edward Snowden https://tails.boum.org/
+* Tails OS - portable amnesiac live operating system, aimed at protecting privacy; used by Edward Snowden https://tails.boum.org/
 * Qubes OS - uses Security by Compartmentalization approach https://www.qubes-os.org/ 
 
 ## Anonymous IM
