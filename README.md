@@ -7,7 +7,7 @@ Taking contributions and feedback re: format.
 * Tutanota - open source encrypted mailbox https://tutanota.de/
 
 ## Search engines
-* DuckDuckGo - The search engine that doesn’t track you https://duckduckgo.com/ The core is proprietary.
+* ~~DuckDuckGo - The search engine that doesn’t track you https://duckduckgo.com/~~ The core is proprietary.
 * StartPage - the privacy of Ixquick combined with search results from Google https://startpage.com/
 * ixquick - the world’s most private search engine https://ixquick.com/
 
