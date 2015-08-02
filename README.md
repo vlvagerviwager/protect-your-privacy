@@ -29,6 +29,9 @@ Inspired by CITIZENFOUR, and my Computer Forensics and Information Security stud
 ## VPN
 * ZenMate - Chrome extension, encrypts and secures your connection. https://zenmate.com/
 
+## Windows 10
+* Windows 10 Is Spying On You: Here’s How To Stop It - http://www.rockpapershotgun.com/2015/07/30/windows-10-privacy-settings/
+
 ## Facebook
 * Get your loved ones off Facebook., by SaintSal - http://saintsal.com/facebook/
 * Reasons not to use (i.e., be used by) Facebook, by Richard Stallman - https://stallman.org/facebook.html
