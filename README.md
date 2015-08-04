@@ -42,7 +42,7 @@ Inspired by CITIZENFOUR, and my Computer Forensics and Information Security stud
 * The 7 Privacy Tools Essential to Making Snowden Documentary CITIZENFOUR - http://www.angrysummit.com/the-7-privacy-tools-essential-to-making-snowden-documentary-citizenfour
 
 ## Get some popcorn
-* The coming collapse of surveillance marketing by Doc Searls: "It’s about the wanton and widespread harvesting of personal data without permission" - http://blogs.law.harvard.edu/vrm/2015/08/03/the-coming-collapse-of-surveillance-marketing/
+* The coming collapse of surveillance marketing, by Doc Searls: "It’s about the wanton and widespread harvesting of personal data without permission" - http://blogs.law.harvard.edu/vrm/2015/08/03/the-coming-collapse-of-surveillance-marketing/
 * Hacking Team gets hacked - http://www.csoonline.com/article/2943968/data-breach/hacking-team-hacked-attackers-claim-400gb-in-dumped-data.html
 * Ai Weiwei: Never Sorry - documentary
 * Ai Weiwei is Living in Our Future - https://medium.com/@hansdezwart/ai-weiwei-is-living-in-our-future-474e5dd15e4f
