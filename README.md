@@ -5,6 +5,11 @@ All feedback re: content and formatting welcomed. Look for _fully_ open source t
 
 Inspired by CITIZENFOUR, and my Computer Forensics and Information Security studies during my MSc. 
 
+## Browser plugin
+
+* Privacy Badger - blocks spying ads and invisible trackers; open source, created by the EFF. Focuses on privacy instead of solely ad-blocking.  https://www.eff.org/privacybadger
+* uBlock - free and open source ad-blocker. https://www.ublock.org/
+
 ## Mailbox
 * Tutanota - open source encrypted mailbox https://tutanota.de/
 
