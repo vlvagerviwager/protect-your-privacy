@@ -1,7 +1,12 @@
 # Protect your privacy
 Protect your privacy. Originally hosted on Tumblr, bringing it to Github to make it easier for others to contribute.
 
-All feedback re: content and formatting welcomed. Look for _fully_ open source tools, not just opened encryption implementation etc. European data protection laws tend to be stronger. Watch out for proprietary cores. 
+All feedback re: content and formatting welcomed. 
+
+* Look for _fully_ open source tools, not just opened encryption implementation etc. 
+** Fully open source = peer review, no backdoors. 
+* European data protection laws tend to be stronger. 
+* Watch out for proprietary cores. 
 
 Inspired by CITIZENFOUR.
 
@@ -12,6 +17,8 @@ Inspired by CITIZENFOUR.
 
 ## Mailbox
 * Tutanota - open source encrypted mailbox https://tutanota.de/
+* Lavaboom - "a zero-knowledge email provider, the first of its kind" https://lavaboom.com/
+* Protonmail - "Secure email based in Switzerland" https://protonmail.ch/
 
 ## Search engines
 * DuckDuckGo - The search engine that doesn’t track you https://duckduckgo.com/
