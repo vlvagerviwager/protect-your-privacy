@@ -3,8 +3,10 @@ Protect your privacy. Originally hosted on Tumblr, bringing it to Github to make
 
 All feedback re: content and formatting welcomed. 
 
+Tips:
+
+* Fully open source = peer review, no backdoors. 
 * Look for _fully_ open source tools, not just opened encryption implementation etc. 
-** Fully open source = peer review, no backdoors. 
 * European data protection laws tend to be stronger. 
 * Watch out for proprietary cores. 
 
