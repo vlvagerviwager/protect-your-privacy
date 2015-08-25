@@ -60,7 +60,7 @@ Inspired by CITIZENFOUR.
 * Hacking Team gets hacked - http://www.csoonline.com/article/2943968/data-breach/hacking-team-hacked-attackers-claim-400gb-in-dumped-data.html
 * Ai Weiwei: Never Sorry - documentary
 * Ai Weiwei is Living in Our Future - https://medium.com/@hansdezwart/ai-weiwei-is-living-in-our-future-474e5dd15e4f
-* 
+
 ## Books
 * The Cuckoo's Egg by Cliff Stoll
 * Beyond Fear: Thinking Sensibly about Security in an Uncertain World by Bruce Schneier
