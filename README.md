@@ -44,22 +44,22 @@ Inspired by CITIZENFOUR.
 * ZenMate - Chrome extension, encrypts and secures your connection. https://zenmate.com/
 
 ## Windows 10
-* Windows 10 Is Spying On You: Here’s How To Stop It - http://www.rockpapershotgun.com/2015/07/30/windows-10-privacy-settings/
-* Even when told not to, Windows 10 just can’t stop talking to Microsoft - http://arstechnica.com/information-technology/2015/08/even-when-told-not-to-windows-10-just-cant-stop-talking-to-microsoft/
-* Microsoft Releases Updates To Spy On Windows 7, 8 and 8.1 Users - https://www.hackread.com/microsoft-updates-spy-on-windows7-8-users/
+* Windows 10 Is Spying On You: Here’s How To Stop It http://www.rockpapershotgun.com/2015/07/30/windows-10-privacy-settings/
+* Even when told not to, Windows 10 just can’t stop talking to Microsoft http://arstechnica.com/information-technology/2015/08/even-when-told-not-to-windows-10-just-cant-stop-talking-to-microsoft/
+* Microsoft Releases Updates To Spy On Windows 7, 8 and 8.1 Users https://www.hackread.com/microsoft-updates-spy-on-windows7-8-users/
 
 ## Facebook
-* Get your loved ones off Facebook., by SaintSal - http://saintsal.com/facebook/
-* Reasons not to use (i.e., be used by) Facebook, by Richard Stallman - https://stallman.org/facebook.html
+* Get your loved ones off Facebook., by SaintSal http://saintsal.com/facebook/
+* Reasons not to use (i.e., be used by) Facebook, by Richard Stallman https://stallman.org/facebook.html
 
 ## General news / info
-* The Intercept - https://firstlook.org/theintercept/
-* Enemies of the Internet - http://surveillance.rsf.org/en/
-* The 7 Privacy Tools Essential to Making Snowden Documentary CITIZENFOUR - http://www.angrysummit.com/the-7-privacy-tools-essential-to-making-snowden-documentary-citizenfour
+* The Intercept https://firstlook.org/theintercept/
+* Enemies of the Internet http://surveillance.rsf.org/en/
+* The 7 Privacy Tools Essential to Making Snowden Documentary CITIZENFOUR http://www.angrysummit.com/the-7-privacy-tools-essential-to-making-snowden-documentary-citizenfour
 
 ## Get some popcorn
-* The coming collapse of surveillance marketing, by Doc Searls: "It’s about the wanton and widespread harvesting of personal data without permission" - http://blogs.law.harvard.edu/vrm/2015/08/03/the-coming-collapse-of-surveillance-marketing/
-* Hacking Team gets hacked - http://www.csoonline.com/article/2943968/data-breach/hacking-team-hacked-attackers-claim-400gb-in-dumped-data.html
+* The coming collapse of surveillance marketing, by Doc Searls: "It’s about the wanton and widespread harvesting of personal data without permission" http://blogs.law.harvard.edu/vrm/2015/08/03/the-coming-collapse-of-surveillance-marketing/
+* Hacking Team gets hacked http://www.csoonline.com/article/2943968/data-breach/hacking-team-hacked-attackers-claim-400gb-in-dumped-data.html
 * Ai Weiwei: Never Sorry - documentary
 * Ai Weiwei is Living in Our Future - https://medium.com/@hansdezwart/ai-weiwei-is-living-in-our-future-474e5dd15e4f
 
