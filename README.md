@@ -20,7 +20,7 @@ Inspired by CITIZENFOUR.
 ## Mailbox
 * Tutanota - open source encrypted mailbox https://tutanota.de/
 * Lavaboom - "a zero-knowledge email provider, the first of its kind" https://lavaboom.com/
-* Protonmail - "Secure email based in Switzerland" https://protonmail.ch/
+* Protonmail - "Secure email based in Switzerland" https://protonmail.ch/ :star: Tried and tested favourite!
 
 ## Search engines
 * DuckDuckGo - The search engine that doesn’t track you https://duckduckgo.com/
@@ -31,7 +31,8 @@ Inspired by CITIZENFOUR.
 * Tails OS - portable amnesiac live operating system, aimed at protecting privacy; used by Edward Snowden https://tails.boum.org/
 * Qubes OS - uses Security by Compartmentalization approach https://www.qubes-os.org/ 
 
-## Anonymous IM
+## IM
+* Signal - Open source, E2E encryption on mobile; iOS and Android apps available. :star: Tried and tested favourite! 
 * [EXPERIMENTAL] Ricochet - Anonymous metadata-resistant instant messaging that just works https://github.com/ricochet-im/ricochet
 
 ## Encryption
