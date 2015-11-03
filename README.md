@@ -12,17 +12,20 @@ Tips:
 
 Inspired by CITIZENFOUR.
 
-## Browser plugin
+## IM
+* Signal - Open source, E2E encryption on mobile; iOS and Android apps available. :star: Tried and tested favourite! 
+* [EXPERIMENTAL] Ricochet - Anonymous metadata-resistant instant messaging that just works https://github.com/ricochet-im/ricochet
 
-* Privacy Badger - blocks spying ads and invisible trackers; open source, created by the EFF. Focuses on privacy instead of solely ad-blocking.  https://www.eff.org/privacybadger
-* uBlock - free and open source ad-blocker. https://www.ublock.org/
-
-## Mailbox
+## Email
 * Tutanota - open source encrypted mailbox https://tutanota.de/
 * Lavaboom - "a zero-knowledge email provider, the first of its kind" https://lavaboom.com/
 * Protonmail - "Secure email based in Switzerland" https://protonmail.ch/ :star: Tried and tested favourite!
 
-## Search engines
+## Browser plugin
+* Privacy Badger - blocks spying ads and invisible trackers; open source, created by the EFF. Focuses on privacy instead of solely ad-blocking.  https://www.eff.org/privacybadger
+* uBlock - free and open source ad-blocker. https://www.ublock.org/
+
+## Search engine
 * DuckDuckGo - The search engine that doesn’t track you https://duckduckgo.com/
 * StartPage - the privacy of Ixquick combined with search results from Google https://startpage.com/
 * ixquick - the world’s most private search engine https://ixquick.com/
@@ -30,10 +33,6 @@ Inspired by CITIZENFOUR.
 ## Operating system
 * Tails OS - portable amnesiac live operating system, aimed at protecting privacy; used by Edward Snowden https://tails.boum.org/
 * Qubes OS - uses Security by Compartmentalization approach https://www.qubes-os.org/ 
-
-## IM
-* Signal - Open source, E2E encryption on mobile; iOS and Android apps available. :star: Tried and tested favourite! 
-* [EXPERIMENTAL] Ricochet - Anonymous metadata-resistant instant messaging that just works https://github.com/ricochet-im/ricochet
 
 ## Encryption
 * PGP - Pretty Good Privacy (PGP) is a data encryption and decryption computer program that provides cryptographic privacy and authentication for data communication. http://philzimmermann.com/EN/findpgp/
