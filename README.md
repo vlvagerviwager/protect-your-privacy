@@ -44,6 +44,7 @@ Inspired by CITIZENFOUR.
 * ZenMate - Chrome extension, encrypts and secures your connection. https://zenmate.com/
 
 ## Windows 10 (is evil)
+* WindowsLies/BlockWindows - "Stop Windows 10 Nagging and Spying. Works with Win7-10" https://github.com/WindowsLies/BlockWindows
 * Windows 10 Is Spying On You: Here’s How To Stop It http://www.rockpapershotgun.com/2015/07/30/windows-10-privacy-settings/
 * Even when told not to, Windows 10 just can’t stop talking to Microsoft http://arstechnica.com/information-technology/2015/08/even-when-told-not-to-windows-10-just-cant-stop-talking-to-microsoft/
 * Microsoft Releases Updates To Spy On Windows 7, 8 and 8.1 Users https://www.hackread.com/microsoft-updates-spy-on-windows7-8-users/
