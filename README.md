@@ -57,6 +57,7 @@ Inspired by CITIZENFOUR.
 * The Intercept https://firstlook.org/theintercept/
 * Enemies of the Internet http://surveillance.rsf.org/en/
 * The 7 Privacy Tools Essential to Making Snowden Documentary CITIZENFOUR http://www.angrysummit.com/the-7-privacy-tools-essential-to-making-snowden-documentary-citizenfour
+* Edward Snowden Explains How To Reclaim Your Privacy https://theintercept.com/2015/11/12/edward-snowden-explains-how-to-reclaim-your-privacy/
 * OpenSecrets.org - "The Center for Responsive Politics is the nation's premier research group tracking money in U.S. politics and its effect on elections and public policy." http://www.opensecrets.org/
 
 ## Get some popcorn
