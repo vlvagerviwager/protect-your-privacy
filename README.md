@@ -21,6 +21,9 @@ Inspired by CITIZENFOUR.
 * Lavaboom - "a zero-knowledge email provider, the first of its kind" https://lavaboom.com/
 * Protonmail - "Secure email based in Switzerland" https://protonmail.ch/ :star: Tried and tested favourite!
 
+## Browser
+* Tor Browser https://www.torproject.org/projects/torbrowser.html.en
+
 ## Browser plugin
 * Privacy Badger - blocks spying ads and invisible trackers; open source, created by the EFF. Focuses on privacy instead of solely ad-blocking.  https://www.eff.org/privacybadger
 * uBlock - free and open source ad-blocker. https://www.ublock.org/
