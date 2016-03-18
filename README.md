@@ -12,6 +12,10 @@ Tips:
 
 Inspired by CITIZENFOUR.
 
+## General
+
+* Decent Security - Start somewhere. Start here. http://decentsecurity.com/
+
 ## IM
 * Signal - Open source, E2E encryption on mobile; iOS and Android apps available. https://whispersystems.org/blog/signal/ :star: Tried and tested favourite! 
 * [EXPERIMENTAL] Ricochet - Anonymous metadata-resistant instant messaging that just works https://github.com/ricochet-im/ricochet
