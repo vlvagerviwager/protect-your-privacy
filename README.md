@@ -20,7 +20,6 @@ Tips:
 
 ## Email
 * Tutanota - open source encrypted mailbox https://tutanota.de/
-* Lavaboom - "a zero-knowledge email provider, the first of its kind" https://lavaboom.com/
 * Protonmail - "Secure email based in Switzerland" https://protonmail.ch/ :star: Tried and tested favourite!
 
 ## Browser
