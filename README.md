@@ -10,8 +10,6 @@ Tips:
 * European data protection laws tend to be stronger. 
 * Watch out for proprietary cores. 
 
-Inspired by CITIZENFOUR.
-
 ## General
 
 * Decent Security - Start somewhere. Start here. http://decentsecurity.com/
@@ -68,6 +66,7 @@ Inspired by CITIZENFOUR.
 * OpenSecrets.org - "The Center for Responsive Politics is the nation's premier research group tracking money in U.S. politics and its effect on elections and public policy." http://www.opensecrets.org/
 
 ## Get some popcorn
+* CITIZENFOUR - documentary
 * CISA AMA with Fight for the Future, Senator Wyden, etc. https://www.reddit.com/r/IAmA/comments/3qban2/oh_look_its_that_cisa_surveillance_bill_again/
 * The coming collapse of surveillance marketing, by Doc Searls: "It’s about the wanton and widespread harvesting of personal data without permission" http://blogs.law.harvard.edu/vrm/2015/08/03/the-coming-collapse-of-surveillance-marketing/
 * Hacking Team gets hacked http://www.csoonline.com/article/2943968/data-breach/hacking-team-hacked-attackers-claim-400gb-in-dumped-data.html
