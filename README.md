@@ -12,7 +12,7 @@ Tips:
 
 ## General
 
-* have i been pwned? - Check if you have an account that has been compromised in a data breach. https://haveibeenpwned.com/
+* have i been pwned? - "Check if you have an account that has been compromised in a data breach" https://haveibeenpwned.com/
 * Decent Security - Start somewhere. Start here. http://decentsecurity.com/
 
 ## IM
@@ -20,8 +20,8 @@ Tips:
 * [EXPERIMENTAL] Ricochet - Anonymous metadata-resistant instant messaging that just works https://github.com/ricochet-im/ricochet
 
 ## Email
-* Tutanota - open source encrypted mailbox https://tutanota.de/
 * Protonmail - "Secure email based in Switzerland" https://protonmail.ch/ :star: Tried and tested favourite!
+* Tutanota - open source encrypted mailbox https://tutanota.de/
 
 ## Browser
 * Tor Browser https://www.torproject.org/projects/torbrowser.html.en
