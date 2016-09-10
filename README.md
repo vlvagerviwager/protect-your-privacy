@@ -16,6 +16,7 @@ Tips:
 * Decent Security - Start somewhere. Start here. http://decentsecurity.com/
 * The Not-Crazy Person’s Guide to Online www.bloomberg.com/news/articles/2016-07-20/the-not-crazy-person-s-guide-to-online-privacy
 * Crypto Projects that Might not Suck https://github.com/sweis/crypto-might-not-suck/blob/master/README.md
+* DeleteMe - Opt out of most people search/public background check sites (@SwiftOnSecurity). https://www.abine.com/deleteme/landing.php
 
 ## IM
 * Signal - Open source, E2E encryption on mobile; iOS and Android apps available. https://whispersystems.org/blog/signal/ :star: Tried and tested favourite! 
