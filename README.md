@@ -78,3 +78,8 @@ Tips:
 ## Books
 * The Cuckoo's Egg by Cliff Stoll
 * Beyond Fear: Thinking Sensibly about Security in an Uncertain World by Bruce Schneier
+
+## Donate
+
+* COURAGE emergency funding drive - Courage manages the legal and public defence of whistleblowers and activists, from Edward Snowden to Chelsea Manning, from Barrett Brown to Lauri Love. https://fundrazr.com/d19Bc3
+
