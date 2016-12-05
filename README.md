@@ -17,6 +17,7 @@ Tips:
 * The Not-Crazy Person’s Guide to Online www.bloomberg.com/news/articles/2016-07-20/the-not-crazy-person-s-guide-to-online-privacy
 * Crypto Projects that Might not Suck https://github.com/sweis/crypto-might-not-suck/blob/master/README.md
 * DeleteMe - Opt out of most people search/public background check sites (@SwiftOnSecurity). https://www.abine.com/deleteme/landing.php
+* Beefing up Privacy - Why and how I’ve become more concerned about my privacy. https://hackernoon.com/beefing-up-privacy-7a749befea32#.h6b7cp1sq
 
 ## IM
 * Signal - Open source, E2E encryption on mobile; iOS and Android apps available. https://whispersystems.org/blog/signal/ :star: Tried and tested favourite! 
@@ -28,6 +29,7 @@ Tips:
 
 ## Browser
 * Tor Browser https://www.torproject.org/projects/torbrowser.html.en
+* Brave Browser - "Brave aims to transform the online ad ecosystem with micropayments and a new revenue-sharing solution to give users and publishers a better deal, where fast, safe browsing is the path to a brighter future for the open web." https://brave.com/
 
 ## Browser plugin
 * Privacy Badger - blocks spying ads and invisible trackers; open source, created by the EFF. Focuses on privacy instead of solely ad-blocking.  https://www.eff.org/privacybadger
