@@ -38,6 +38,7 @@ _Disclaimer:_ The information and products below is for general information purp
 ### Email
 - Protonmail - "Secure email based in Switzerland" https://protonmail.ch/ :star: Tried and tested favourite!
 - Tutanota - open source encrypted mailbox https://tutanota.de/
+- Lavabit https://lavabit.com/index.html Back up with a limited release as of January 2017.
 
 ### Browser
 - Tor Browser https://www.torproject.org/projects/torbrowser.html.en
@@ -77,9 +78,8 @@ _Disclaimer:_ The information and products below is for general information purp
 - Why I Hate Security, Computers, and the Entire Modern Banking System by Sarah Jeong https://motherboard.vice.com/read/why-i-hate-security-computers-and-the-entire-modern-banking-system
 
 ## Movies
-
-- CITIZENFOUR - documentary
-- Ai Weiwei: Never Sorry - documentary
+- CITIZENFOUR - documentary https://citizenfourfilm.com/
+- Ai Weiwei: Never Sorry - documentary http://www.aiweiweineversorry.com/
 
 ## Books
 - The Cuckoo's Egg by Cliff Stoll
@@ -88,7 +88,6 @@ _Disclaimer:_ The information and products below is for general information purp
 - American Spies: Modern Surveillance, Why You Should Care, and What to Do About It by Jennifer Granick
 
 ## Donate
-
 * COURAGE emergency funding drive - Courage manages the legal and public defence of whistleblowers and activists, from Edward Snowden to Chelsea Manning, from Barrett Brown to Lauri Love. https://fundrazr.com/d19Bc3
 * Donate to the ACLU https://action.aclu.org/secure/donate-to-aclu
 
