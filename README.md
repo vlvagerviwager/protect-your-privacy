@@ -33,11 +33,11 @@ _Disclaimer:_ The information and products below is for general information purp
 ## Tools
 
 ### IM
-- Signal - Open source, E2E encryption on mobile; iOS and Android apps available. https://whispersystems.org/blog/signal/ :star: Tried and tested favourite! 
+- Signal - Open source, E2E encryption on mobile; iOS and Android apps available. https://whispersystems.org/blog/signal/
 - [EXPERIMENTAL] Ricochet - Anonymous metadata-resistant instant messaging that just works https://github.com/ricochet-im/ricochet
 
 ### Email
-- Protonmail - "Secure email based in Switzerland" https://protonmail.ch/ :star: Tried and tested favourite!
+- Protonmail - "Secure email based in Switzerland" https://protonmail.ch/
 - Tutanota - open source encrypted mailbox https://tutanota.de/
 - Lavabit https://lavabit.com/index.html Back up with a limited release as of January 2017.
 
