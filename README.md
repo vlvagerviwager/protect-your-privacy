@@ -11,6 +11,7 @@ _Disclaimer:_ The information and products below is for general information purp
 - Look for _fully_ open source tools, not just opened encryption implementation etc. 
 - European data protection laws tend to be stronger. 
 - Watch out for proprietary cores. 
+- Before trying a new tool, check that it still exists, is secure (depending on your criteria), and has not been bought/taken over by another body which does not uphold high standards for security and privacy. 
 
 ## General privacy tips
 
