@@ -78,6 +78,10 @@ _Disclaimer:_ The information and products below is for general information purp
 - Ai Weiwei is Living in Our Future - https://medium.com/@hansdezwart/ai-weiwei-is-living-in-our-future-474e5dd15e4f
 - Why I Hate Security, Computers, and the Entire Modern Banking System by Sarah Jeong https://motherboard.vice.com/read/why-i-hate-security-computers-and-the-entire-modern-banking-system
 
+## Comics
+
+- Into the Abyss: The NSA’s Global Internet Surveillance https://www.aclu.org/infographic/abyss-nsas-global-internet-surveillance 
+
 ## Movies
 - CITIZENFOUR - documentary https://citizenfourfilm.com/
 - Ai Weiwei: Never Sorry - documentary http://www.aiweiweineversorry.com/
