@@ -33,7 +33,7 @@ _Disclaimer:_ The information and products below is for general information purp
 ## Tools
 
 ### IM
-- Signal - Open source, E2E encryption on mobile; iOS and Android apps available. https://whispersystems.org/blog/signal/
+- Signal - Open source, E2E encryption; desktop, iO,S and Android apps available. https://whispersystems.org/blog/signal/
 - [EXPERIMENTAL] Ricochet - Anonymous metadata-resistant instant messaging that just works https://github.com/ricochet-im/ricochet
 
 ### Email
