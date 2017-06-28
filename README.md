@@ -37,7 +37,7 @@ _Disclaimer:_ The information and products below is for general information purp
 - [EXPERIMENTAL] Ricochet - Anonymous metadata-resistant instant messaging that just works https://github.com/ricochet-im/ricochet
 
 ### Email
-- Protonmail - "Secure email based in Switzerland" https://protonmail.ch/
+- Protonmail - "Secure email based in Switzerland" https://protonmail.com/
 - Tutanota - open source encrypted mailbox https://tutanota.de/
 - Lavabit https://lavabit.com/index.html Back up with a limited release as of January 2017.
 
@@ -68,6 +68,7 @@ _Disclaimer:_ The information and products below is for general information purp
 - Silent Circle - check out their Blackphone. https://silentcircle.com/
 
 ### VPN
+- ProtonVPN - By the creators of ProtonMail. https://protonvpn.com/
 - ZenMate - Chrome extension, encrypts and secures your connection. https://zenmate.com/
 
 ## Opinion
@@ -79,7 +80,6 @@ _Disclaimer:_ The information and products below is for general information purp
 - Why I Hate Security, Computers, and the Entire Modern Banking System by Sarah Jeong https://motherboard.vice.com/read/why-i-hate-security-computers-and-the-entire-modern-banking-system
 
 ## Comics
-
 - Into the Abyss: The NSA’s Global Internet Surveillance https://www.aclu.org/infographic/abyss-nsas-global-internet-surveillance 
 
 ## Movies
