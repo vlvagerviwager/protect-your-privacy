@@ -38,7 +38,7 @@ Beefing up Privacy | https://hackernoon.com/beefing-up-privacy-7a749befea32#.h6b
 
 What | Where | Why
 --- | --- | ---
-Signal | https://whispersystems.org/blog/signal/ | Open source, E2E encryption; desktop, iO,S and Android apps available.
+Signal | https://whispersystems.org/blog/signal/ | Open source, E2E encryption; desktop, iOS, and Android apps available.
 [EXPERIMENTAL] Ricochet | https://github.com/ricochet-im/ricochet | Anonymous metadata-resistant instant messaging that just worksbreach"
 
 ### Email
@@ -50,26 +50,45 @@ Tutanota | https://github.com/ricochet-im/ricochet | Open source encrypted mailb
 Lavabit | https://lavabit.com/ | Back up with a limited release as of January 2017.
 
 ### Browser
-- Tor Browser https://www.torproject.org/projects/torbrowser.html.en
-- Brave Browser - "Brave aims to transform the online ad ecosystem with micropayments and a new revenue-sharing solution to give users and publishers a better deal, where fast, safe browsing is the path to a brighter future for the open web." https://brave.com/
+
+What | Where | Why
+--- | --- | ---
+Tor Browser | https://www.torproject.org/projects/torbrowser.html.en | 
+Brave Browser | https://brave.com/ | "Brave aims to transform the online ad ecosystem with micropayments and a new revenue-sharing solution to give users and publishers a better deal, where fast, safe browsing is the path to a brighter future for the open web."
 
 ### Browser plugin
-- Privacy Badger - blocks spying ads and invisible trackers; open source, created by the EFF. Focuses on privacy instead of solely ad-blocking.  https://www.eff.org/privacybadger
-- uBlock - free and open source ad-blocker. https://www.ublock.org/
+
+What | Where | Why
+--- | --- | ---
+Privacy Badger | https://www.eff.org/privacybadger | Blocks spying ads and invisible trackers; open source, created by the EFF. Focuses on privacy instead of solely ad-blocking.
+uBlock Origin (**not** uBlock) | https://github.com/gorhill/uBlock | Free and open source ad-blocker.
 
 ### Search engine
-- DuckDuckGo - The search engine that doesn’t track you https://duckduckgo.com/
-- StartPage - the privacy of Ixquick combined with search results from Google https://startpage.com/
-- ixquick - the world’s most private search engine https://ixquick.com/
+
+What | Where | Why
+--- | --- | ---
+DuckDuckGo | https://duckduckgo.com/ | The search engine that doesn’t track you.
+StartPage | https://startpage.com/ | The privacy of Ixquick combined with search results from Google.
+ixquick | https://ixquick.com/ | The world’s most private search engine.
 
 ### Password manager
-- KeePassX https://www.keepassx.org/
+
+What | Where | Why
+--- | --- | ---
+KeePassX | https://www.keepassx.org/ | 
 
 ### Operating system
-- Tails OS - portable amnesiac live operating system, aimed at protecting privacy; used by Edward Snowden https://tails.boum.org/
-- Qubes OS - uses Security by Compartmentalization approach https://www.qubes-os.org/ 
+
+What | Where | Why
+--- | --- | ---
+Tails OS | https://tails.boum.org/ | Portable amnesiac live operating system, aimed at protecting privacy; used by Edward Snowden.
+Qubes OS | https://www.qubes-os.org/ | Uses Security by Compartmentalization approach.
 
 ### Encryption
+
+What | Where | Why
+--- | --- | ---
+DuckDuckGo | https://duckduckgo.com/ | The search engine that doesn’t track you.
 - PGP - Pretty Good Privacy (PGP) is a data encryption and decryption computer program that provides cryptographic privacy and authentication for data communication. http://philzimmermann.com/EN/findpgp/
 
 ### Enterprise privacy platform
