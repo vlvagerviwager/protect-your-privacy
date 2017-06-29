@@ -98,6 +98,10 @@ _Disclaimer:_ The information and products below is for general information purp
 
 ## "Don't be evil"
 
+### Google (is evil)
+
+- Please Make Google AMP Optional https://www.alexkras.com/please-make-google-amp-optional/
+
 ### Windows 10 (is evil)
 * WindowsLies/BlockWindows - "Stop Windows 10 Nagging and Spying. Works with Win7-10" https://github.com/WindowsLies/BlockWindows
 * Windows 10 Is Spying On You: Here’s How To Stop It http://www.rockpapershotgun.com/2015/07/30/windows-10-privacy-settings/
