@@ -15,12 +15,14 @@ _Disclaimer:_ The information and products below is for general information purp
 
 ## General privacy tips
 
-- have i been pwned? - "Check if you have an account that has been compromised in a data breach" https://haveibeenpwned.com/
-- Decent Security - Start somewhere. Start here. http://decentsecurity.com/
-- The Not-Crazy Person’s Guide to Online www.bloomberg.com/news/articles/2016-07-20/the-not-crazy-person-s-guide-to-online-privacy
-- Crypto Projects that Might not Suck https://github.com/sweis/crypto-might-not-suck/blob/master/README.md
-- DeleteMe - Opt out of most people search/public background check sites (@SwiftOnSecurity). https://www.abine.com/deleteme/landing.php
-- Beefing up Privacy - Why and how I’ve become more concerned about my privacy. https://hackernoon.com/beefing-up-privacy-7a749befea32#.h6b7cp1sq
+What | Where | Why
+--- | --- | ---
+have i been pwned? | https://haveibeenpwned.com/ | "Check if you have an account that has been compromised in a data breach"
+Decent Security | http://decentsecurity.com/ | Start somewhere. Start here.
+The Not-Crazy Person’s Guide to Online Privacy | www.bloomberg.com/news/articles/2016-07-20/the-not-crazy-person-s-guide-to-online-privacy | 
+Crypto Projects that Might not Suck | https://github.com/sweis/crypto-might-not-suck/blob/master/README.md | 
+DeleteMe | https://www.abine.com/deleteme/landing.php | Opt out of most people search/public background check sites (@SwiftOnSecurity).
+Beefing up Privacy | https://hackernoon.com/beefing-up-privacy-7a749befea32#.h6b7cp1sq | Why and how I’ve become more concerned about my privacy.
 
 ## General news / info
 - The Intercept https://firstlook.org/theintercept/
