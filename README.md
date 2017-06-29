@@ -35,13 +35,19 @@ Beefing up Privacy | https://hackernoon.com/beefing-up-privacy-7a749befea32#.h6b
 ## Tools
 
 ### IM
-- Signal - Open source, E2E encryption; desktop, iO,S and Android apps available. https://whispersystems.org/blog/signal/
-- [EXPERIMENTAL] Ricochet - Anonymous metadata-resistant instant messaging that just works https://github.com/ricochet-im/ricochet
+
+What | Where | Why
+--- | --- | ---
+Signal | https://whispersystems.org/blog/signal/ | Open source, E2E encryption; desktop, iO,S and Android apps available.
+[EXPERIMENTAL] Ricochet | https://github.com/ricochet-im/ricochet | Anonymous metadata-resistant instant messaging that just worksbreach"
 
 ### Email
-- Protonmail - "Secure email based in Switzerland" https://protonmail.com/
-- Tutanota - open source encrypted mailbox https://tutanota.de/
-- Lavabit https://lavabit.com/index.html Back up with a limited release as of January 2017.
+
+What | Where | Why
+--- | --- | ---
+ProtonMail | https://protonmail.com/ | "Secure email based in Switzerland"
+Tutanota | https://github.com/ricochet-im/ricochet | Open source encrypted mailbox
+Lavabit | https://lavabit.com/ | Back up with a limited release as of January 2017.
 
 ### Browser
 - Tor Browser https://www.torproject.org/projects/torbrowser.html.en
@@ -67,11 +73,17 @@ Beefing up Privacy | https://hackernoon.com/beefing-up-privacy-7a749befea32#.h6b
 - PGP - Pretty Good Privacy (PGP) is a data encryption and decryption computer program that provides cryptographic privacy and authentication for data communication. http://philzimmermann.com/EN/findpgp/
 
 ### Enterprise privacy platform
-- Silent Circle - check out their Blackphone. https://silentcircle.com/
+
+What | Where | Why
+--- | --- | ---
+Silent Circle | https://silentcircle.com/ | Check out their Blackphone.
 
 ### VPN
-- ProtonVPN - By the creators of ProtonMail. https://protonvpn.com/
-- ZenMate - Chrome extension, encrypts and secures your connection. https://zenmate.com/
+
+What | Where | Why
+--- | --- | ---
+ProtonVPN | https://protonvpn.com/ | By the creators of ProtonMail.
+ZenMate | https://zenmate.com/ | Chrome extension, encrypts and secures your connection.
 
 ## Opinion
 
@@ -82,7 +94,10 @@ Beefing up Privacy | https://hackernoon.com/beefing-up-privacy-7a749befea32#.h6b
 - Why I Hate Security, Computers, and the Entire Modern Banking System by Sarah Jeong https://motherboard.vice.com/read/why-i-hate-security-computers-and-the-entire-modern-banking-system
 
 ## Comics
-- Into the Abyss: The NSA’s Global Internet Surveillance https://www.aclu.org/infographic/abyss-nsas-global-internet-surveillance 
+
+What | Where | Why
+--- | --- | ---
+Into the Abyss: The NSA’s Global Internet Surveillance  | https://www.aclu.org/infographic/abyss-nsas-global-internet-surveillance  | 
 
 ## Movies
 - CITIZENFOUR - documentary https://citizenfourfilm.com/
