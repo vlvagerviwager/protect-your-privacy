@@ -25,12 +25,15 @@ DeleteMe | https://www.abine.com/deleteme/landing.php | Opt out of most people s
 Beefing up Privacy | https://hackernoon.com/beefing-up-privacy-7a749befea32#.h6b7cp1sq | Why and how I’ve become more concerned about my privacy.
 
 ## General news / info
-- The Intercept https://firstlook.org/theintercept/
-- Enemies of the Internet http://surveillance.rsf.org/en/
-- The 7 Privacy Tools Essential to Making Snowden Documentary CITIZENFOUR http://www.angrysummit.com/the-7-privacy-tools-essential-to-making-snowden-documentary-citizenfour
-- Edward Snowden Explains How To Reclaim Your Privacy https://theintercept.com/2015/11/12/edward-snowden-explains-how-to-reclaim-your-privacy/
-- OpenSecrets.org - "The Center for Responsive Politics is the nation's premier research group tracking money in U.S. politics and its effect on elections and public policy." http://www.opensecrets.org/
-- Vanessa Otero's chart about news sources https://twitter.com/vlotero/status/808696317174288387
+
+What | Where | Why
+--- | --- | ---
+The Intercept | https://firstlook.org/theintercept/ |
+Enemies of the Internet | http://surveillance.rsf.org/en/ |
+The 7 Privacy Tools Essential to Making Snowden Documentary CITIZENFOUR | http://www.angrysummit.com/the-7-privacy-tools-essential-to-making-snowden-documentary-citizenfour |
+Edward Snowden Explains How To Reclaim Your Privacy | https://theintercept.com/2015/11/12/edward-snowden-explains-how-to-reclaim-your-privacy/ |
+OpenSecrets.org | http://www.opensecrets.org/ | "The Center for Responsive Politics is the nation's premier research group tracking money in U.S. politics and its effect on elections and public policy."
+Vanessa Otero's chart about news sources | https://twitter.com/vlotero/status/808696317174288387 |
 
 ## Tools
 
@@ -88,8 +91,7 @@ Qubes OS | https://www.qubes-os.org/ | Uses Security by Compartmentalization app
 
 What | Where | Why
 --- | --- | ---
-DuckDuckGo | https://duckduckgo.com/ | The search engine that doesn’t track you.
-- PGP - Pretty Good Privacy (PGP) is a data encryption and decryption computer program that provides cryptographic privacy and authentication for data communication. http://philzimmermann.com/EN/findpgp/
+PGP | http://philzimmermann.com/EN/findpgp/ | Pretty Good Privacy (PGP) is a data encryption and decryption computer program that provides cryptographic privacy and authentication for data communication.
 
 ### Enterprise privacy platform
 
@@ -106,44 +108,63 @@ ZenMate | https://zenmate.com/ | Chrome extension, encrypts and secures your con
 
 ## Opinion
 
-- CISA AMA with Fight for the Future, Senator Wyden, etc. https://www.reddit.com/r/IAmA/comments/3qban2/oh_look_its_that_cisa_surveillance_bill_again/
-- The coming collapse of surveillance marketing, by Doc Searls: "It’s about the wanton and widespread harvesting of personal data without permission" http://blogs.law.harvard.edu/vrm/2015/08/03/the-coming-collapse-of-surveillance-marketing/
-- Hacking Team gets hacked http://www.csoonline.com/article/2943968/data-breach/hacking-team-hacked-attackers-claim-400gb-in-dumped-data.html
-- Ai Weiwei is Living in Our Future - https://medium.com/@hansdezwart/ai-weiwei-is-living-in-our-future-474e5dd15e4f
-- Why I Hate Security, Computers, and the Entire Modern Banking System by Sarah Jeong https://motherboard.vice.com/read/why-i-hate-security-computers-and-the-entire-modern-banking-system
+What | Where | Why
+--- | --- | ---
+CISA AMA with Fight for the Future, Senator Wyden, etc. | https://www.reddit.com/r/IAmA/comments/3qban2/oh_look_its_that_cisa_surveillance_bill_again/ | 
+The coming collapse of surveillance marketing, by Doc Searls | http://blogs.law.harvard.edu/vrm/2015/08/03/the-coming-collapse-of-surveillance-marketing/ | "It’s about the wanton and widespread harvesting of personal data without permission"
+Hacking Team gets hacked | http://www.csoonline.com/article/2943968/data-breach/hacking-team-hacked-attackers-claim-400gb-in-dumped-data.html | 
+Ai Weiwei is Living in Our Future | https://medium.com/@hansdezwart/ai-weiwei-is-living-in-our-future-474e5dd15e4f | 
+Why I Hate Security, Computers, and the Entire Modern Banking System by Sarah Jeong | https://motherboard.vice.com/read/why-i-hate-security-computers-and-the-entire-modern-banking-system | 
 
 ## Comics
 
 What | Where | Why
 --- | --- | ---
-Into the Abyss: The NSA’s Global Internet Surveillance  | https://www.aclu.org/infographic/abyss-nsas-global-internet-surveillance  | 
+Into the Abyss: The NSA’s Global Internet Surveillance | https://www.aclu.org/infographic/abyss-nsas-global-internet-surveillance |
 
 ## Movies
-- CITIZENFOUR - documentary https://citizenfourfilm.com/
-- Ai Weiwei: Never Sorry - documentary http://www.aiweiweineversorry.com/
+
+What | Where | Why
+--- | --- | ---
+CITIZENFOUR | https://citizenfourfilm.com/ | Documentary
+Ai Weiwei: Never Sorry | http://www.aiweiweineversorry.com/ | Documentary
 
 ## Books
-- The Cuckoo's Egg by Cliff Stoll
-- Beyond Fear: Thinking Sensibly about Security in an Uncertain World by Bruce Schneier
-- The Smart Girl's Guide to Privacy https://www.nostarch.com/smartgirlsguide
-- American Spies: Modern Surveillance, Why You Should Care, and What to Do About It by Jennifer Granick
+
+What | By | Where
+--- | --- | ---
+The Cuckoo's Egg | Cliff Stoll |
+Beyond Fear: Thinking Sensibly about Security in an Uncertain World | Bruce Schneier |
+The Smart Girl's Guide to Privacy | Violet Blue | https://www.nostarch.com/smartgirlsguide
+American Spies: Modern Surveillance, Why You Should Care, and What to Do About It | Jennifer Granick |
 
 ## Donate
-* COURAGE emergency funding drive - Courage manages the legal and public defence of whistleblowers and activists, from Edward Snowden to Chelsea Manning, from Barrett Brown to Lauri Love. https://fundrazr.com/d19Bc3
-* Donate to the ACLU https://action.aclu.org/secure/donate-to-aclu
+
+What | Where | Why
+--- | --- | ---
+COURAGE emergency funding drive | https://fundrazr.com/d19Bc3 | Courage manages the legal and public defence of whistleblowers and activists, from Edward Snowden to Chelsea Manning, from Barrett Brown to Lauri Love.
+Donate to the ACLU | https://action.aclu.org/secure/donate-to-aclu |
 
 ## "Don't be evil"
 
 ### Google (is evil)
 
-- Please Make Google AMP Optional - "I was reading some articles on Hacker News about how we’ve lost the internet to big companies and how we are not doing anything about it and it got me thinking about Google’s Accelerated Mobile Pages (AMP) again." https://www.alexkras.com/please-make-google-amp-optional/
+What | Where | Why
+--- | --- | ---
+Please Make Google AMP Optional | https://www.alexkras.com/please-make-google-amp-optional/ | "I was reading some articles on Hacker News about how we’ve lost the internet to big companies and how we are not doing anything about it and it got me thinking about Google’s Accelerated Mobile Pages (AMP) again."
 
 ### Windows 10 (is evil)
-* WindowsLies/BlockWindows - "Stop Windows 10 Nagging and Spying. Works with Win7-10" https://github.com/WindowsLies/BlockWindows
-* Windows 10 Is Spying On You: Here’s How To Stop It http://www.rockpapershotgun.com/2015/07/30/windows-10-privacy-settings/
-* Even when told not to, Windows 10 just can’t stop talking to Microsoft http://arstechnica.com/information-technology/2015/08/even-when-told-not-to-windows-10-just-cant-stop-talking-to-microsoft/
-* Microsoft Releases Updates To Spy On Windows 7, 8 and 8.1 Users https://www.hackread.com/microsoft-updates-spy-on-windows7-8-users/
+
+What | Where | Why
+--- | --- | ---
+WindowsLies / BlockWindows | https://github.com/WindowsLies/BlockWindows | "Stop Windows 10 Nagging and Spying. Works with Win7-10"
+Windows 10 Is Spying On You: Here’s How To Stop It | http://www.rockpapershotgun.com/2015/07/30/windows-10-privacy-settings/ | 
+Even when told not to, Windows 10 just can’t stop talking to Microsoft | http://arstechnica.com/information-technology/2015/08/even-when-told-not-to-windows-10-just-cant-stop-talking-to-microsoft/ | 
+Microsoft Releases Updates To Spy On Windows 7, 8 and 8.1 Users | http://arstechnica.com/information-technology/2015/08/even-when-told-not-to-windows-10-just-cant-stop-talking-to-microsoft/ | 
 
 ### Facebook (is evil)
-* Get your loved ones off Facebook., by SaintSal http://saintsal.com/facebook/
-* Reasons not to use (i.e., be used by) Facebook, by Richard Stallman https://stallman.org/facebook.html
+
+What | Where | Why
+--- | --- | ---
+Get your loved ones off Facebook., by SaintSal | http://saintsal.com/facebook/ |
+Reasons not to use (i.e., be used by) Facebook, by Richard Stallman | https://stallman.org/facebook.html |
