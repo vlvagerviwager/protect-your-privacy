@@ -100,7 +100,7 @@ _Disclaimer:_ The information and products below is for general information purp
 
 ### Google (is evil)
 
-- Please Make Google AMP Optional https://www.alexkras.com/please-make-google-amp-optional/
+- Please Make Google AMP Optional - "I was reading some articles on Hacker News about how we’ve lost the internet to big companies and how we are not doing anything about it and it got me thinking about Google’s Accelerated Mobile Pages (AMP) again." https://www.alexkras.com/please-make-google-amp-optional/
 
 ### Windows 10 (is evil)
 * WindowsLies/BlockWindows - "Stop Windows 10 Nagging and Spying. Works with Win7-10" https://github.com/WindowsLies/BlockWindows
