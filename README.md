@@ -134,9 +134,9 @@ Ai Weiwei: Never Sorry | http://www.aiweiweineversorry.com/ | Documentary
 What | By | Where
 --- | --- | ---
 The Cuckoo's Egg | Cliff Stoll |
-Beyond Fear: Thinking Sensibly about Security in an Uncertain World | Bruce Schneier |
+Beyond Fear: Thinking Sensibly about Security in an Uncertain World | Bruce Schneier | https://www.schneier.com/books/beyond_fear/
 The Smart Girl's Guide to Privacy | Violet Blue | https://www.nostarch.com/smartgirlsguide
-American Spies: Modern Surveillance, Why You Should Care, and What to Do About It | Jennifer Granick |
+American Spies: Modern Surveillance, Why You Should Care, and What to Do About It | Jennifer Granick | https://www.americanspies.com/
 
 ## Donate
 
