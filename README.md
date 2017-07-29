@@ -26,6 +26,8 @@ Beefing up Privacy | https://hackernoon.com/beefing-up-privacy-7a749befea32#.h6b
 Mac user? Tips and tools to help you protect your data and communications. | https://ssd.eff.org/en/playlist/mac-user |
 Famed Hacker Kevin Mitnick Shows You How to Go Invisible Online | https://www.wired.com/2017/02/famed-hacker-kevin-mitnick-shows-go-invisible-online |
 Kids need to reclaim their data and security… especially at school | https://techcrunch.com/2016/09/21/kids-need-to-reclaim-their-data-and-security-especially-at-school/ |
+Deploying uBlock Origin for Firefox with CCK2 and Group Policy | https://decentsecurity.com/ublock-for-firefox-deployment/ | Block ads in Firefox at your company.
+Adblocking for Internet Explorer without an extension: Enterprise deployment | https://decentsecurity.com/adblocking-for-internet-explorer-deployment/ | Block ads in IE at your company.
 
 ## General news / info
 
