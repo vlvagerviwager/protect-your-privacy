@@ -115,6 +115,7 @@ CISA AMA with Fight for the Future, Senator Wyden, etc. | https://www.reddit.com
 The coming collapse of surveillance marketing, by Doc Searls | http://blogs.law.harvard.edu/vrm/2015/08/03/the-coming-collapse-of-surveillance-marketing/ | "It’s about the wanton and widespread harvesting of personal data without permission"
 Hacking Team gets hacked | http://www.csoonline.com/article/2943968/data-breach/hacking-team-hacked-attackers-claim-400gb-in-dumped-data.html | 
 Ai Weiwei is Living in Our Future | https://medium.com/@hansdezwart/ai-weiwei-is-living-in-our-future-474e5dd15e4f | 
+Facebook, Twitter and Instagram sent feeds that helped police track minorities in Ferguson and Baltimore, report says | https://www.washingtonpost.com/news/the-switch/wp/2016/10/11/facebook-twitter-and-instagram-sent-feeds-that-helped-police-track-minorities-in-ferguson-and-baltimore-aclu-says/ |
 Why I Hate Security, Computers, and the Entire Modern Banking System by Sarah Jeong | https://motherboard.vice.com/read/why-i-hate-security-computers-and-the-entire-modern-banking-system | 
 
 ## Comics
