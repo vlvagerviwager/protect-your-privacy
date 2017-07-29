@@ -120,6 +120,7 @@ Facebook, Twitter and Instagram sent feeds that helped police track minorities i
 What Yahoo’s NSA Surveillance Means for Email Privacy | https://protonmail.com/blog/yahoo-us-intelligence/ |
 Microsoft’s Top Lawyer Becomes a Civil Rights Crusader | https://www.technologyreview.com/s/602311/microsofts-top-lawyer-becomes-a-civil-rights-crusader/ |
 Edward Snowden’s New Research Aims to Keep Smartphones From Betraying Their Owners | https://theintercept.com/2016/07/21/edward-snowdens-new-research-aims-to-keep-smartphones-from-betraying-their-owners/ |
+How Hired Hackers Got “Complete Control” Of Palantir | https://www.buzzfeed.com/williamalden/how-hired-hackers-got-complete-control-of-palantir?utm_term=.pbJL9Onm3q#.sgza8Ny9e7 | "A piece of security software called Little Snitch — which regulates data sent out from a computer to the internet — was installed on one of the information security employees’ laptops, and it flagged the suspicious upload attempt, the report says."
 Why I Hate Security, Computers, and the Entire Modern Banking System by Sarah Jeong | https://motherboard.vice.com/read/why-i-hate-security-computers-and-the-entire-modern-banking-system | 
 
 ## Comics
