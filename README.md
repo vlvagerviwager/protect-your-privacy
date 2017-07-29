@@ -170,6 +170,7 @@ WindowsLies / BlockWindows | https://github.com/WindowsLies/BlockWindows | "Stop
 Windows 10 Is Spying On You: Here’s How To Stop It | http://www.rockpapershotgun.com/2015/07/30/windows-10-privacy-settings/ | 
 Even when told not to, Windows 10 just can’t stop talking to Microsoft | http://arstechnica.com/information-technology/2015/08/even-when-told-not-to-windows-10-just-cant-stop-talking-to-microsoft/ | 
 Microsoft Releases Updates To Spy On Windows 7, 8 and 8.1 Users | http://arstechnica.com/information-technology/2015/08/even-when-told-not-to-windows-10-just-cant-stop-talking-to-microsoft/ | 
+Microsoft retroactively removes ability of companies to turn off Windows Store in Pro version of Windows 10 | https://support.microsoft.com/en-us/help/3135657/can-t-disable-windows-store-in-windows-10-pro-through-group-policy |
 
 ### Facebook (is evil)
 
