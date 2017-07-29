@@ -24,6 +24,7 @@ Crypto Projects that Might not Suck | https://github.com/sweis/crypto-might-not-
 DeleteMe | https://www.abine.com/deleteme/landing.php | Opt out of most people search/public background check sites (@SwiftOnSecurity).
 Beefing up Privacy | https://hackernoon.com/beefing-up-privacy-7a749befea32#.h6b7cp1sq | Why and how I’ve become more concerned about my privacy.
 Famed Hacker Kevin Mitnick Shows You How to Go Invisible Online | https://www.wired.com/2017/02/famed-hacker-kevin-mitnick-shows-go-invisible-online |
+Kids need to reclaim their data and security… especially at school | https://techcrunch.com/2016/09/21/kids-need-to-reclaim-their-data-and-security-especially-at-school/ |
 
 ## General news / info
 
@@ -116,6 +117,7 @@ The coming collapse of surveillance marketing, by Doc Searls | http://blogs.law.
 Hacking Team gets hacked | http://www.csoonline.com/article/2943968/data-breach/hacking-team-hacked-attackers-claim-400gb-in-dumped-data.html | 
 Ai Weiwei is Living in Our Future | https://medium.com/@hansdezwart/ai-weiwei-is-living-in-our-future-474e5dd15e4f | 
 Facebook, Twitter and Instagram sent feeds that helped police track minorities in Ferguson and Baltimore, report says | https://www.washingtonpost.com/news/the-switch/wp/2016/10/11/facebook-twitter-and-instagram-sent-feeds-that-helped-police-track-minorities-in-ferguson-and-baltimore-aclu-says/ |
+What Yahoo’s NSA Surveillance Means for Email Privacy | https://protonmail.com/blog/yahoo-us-intelligence/ |
 Why I Hate Security, Computers, and the Entire Modern Banking System by Sarah Jeong | https://motherboard.vice.com/read/why-i-hate-security-computers-and-the-entire-modern-banking-system | 
 
 ## Comics
