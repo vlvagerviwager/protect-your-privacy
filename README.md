@@ -23,6 +23,7 @@ The Not-Crazy Person’s Guide to Online Privacy | www.bloomberg.com/news/articl
 Crypto Projects that Might not Suck | https://github.com/sweis/crypto-might-not-suck/blob/master/README.md | 
 DeleteMe | https://www.abine.com/deleteme/landing.php | Opt out of most people search/public background check sites (@SwiftOnSecurity).
 Beefing up Privacy | https://hackernoon.com/beefing-up-privacy-7a749befea32#.h6b7cp1sq | Why and how I’ve become more concerned about my privacy.
+Mac user? Tips and tools to help you protect your data and communications. | https://ssd.eff.org/en/playlist/mac-user |
 Famed Hacker Kevin Mitnick Shows You How to Go Invisible Online | https://www.wired.com/2017/02/famed-hacker-kevin-mitnick-shows-go-invisible-online |
 Kids need to reclaim their data and security… especially at school | https://techcrunch.com/2016/09/21/kids-need-to-reclaim-their-data-and-security-especially-at-school/ |
 
