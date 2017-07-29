@@ -118,6 +118,7 @@ Hacking Team gets hacked | http://www.csoonline.com/article/2943968/data-breach/
 Ai Weiwei is Living in Our Future | https://medium.com/@hansdezwart/ai-weiwei-is-living-in-our-future-474e5dd15e4f | 
 Facebook, Twitter and Instagram sent feeds that helped police track minorities in Ferguson and Baltimore, report says | https://www.washingtonpost.com/news/the-switch/wp/2016/10/11/facebook-twitter-and-instagram-sent-feeds-that-helped-police-track-minorities-in-ferguson-and-baltimore-aclu-says/ |
 What Yahoo’s NSA Surveillance Means for Email Privacy | https://protonmail.com/blog/yahoo-us-intelligence/ |
+Microsoft’s Top Lawyer Becomes a Civil Rights Crusader | https://www.technologyreview.com/s/602311/microsofts-top-lawyer-becomes-a-civil-rights-crusader/ |
 Why I Hate Security, Computers, and the Entire Modern Banking System by Sarah Jeong | https://motherboard.vice.com/read/why-i-hate-security-computers-and-the-entire-modern-banking-system | 
 
 ## Comics
