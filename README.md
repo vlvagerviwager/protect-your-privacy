@@ -119,6 +119,7 @@ Ai Weiwei is Living in Our Future | https://medium.com/@hansdezwart/ai-weiwei-is
 Facebook, Twitter and Instagram sent feeds that helped police track minorities in Ferguson and Baltimore, report says | https://www.washingtonpost.com/news/the-switch/wp/2016/10/11/facebook-twitter-and-instagram-sent-feeds-that-helped-police-track-minorities-in-ferguson-and-baltimore-aclu-says/ |
 What Yahoo’s NSA Surveillance Means for Email Privacy | https://protonmail.com/blog/yahoo-us-intelligence/ |
 Microsoft’s Top Lawyer Becomes a Civil Rights Crusader | https://www.technologyreview.com/s/602311/microsofts-top-lawyer-becomes-a-civil-rights-crusader/ |
+Edward Snowden’s New Research Aims to Keep Smartphones From Betraying Their Owners | https://theintercept.com/2016/07/21/edward-snowdens-new-research-aims-to-keep-smartphones-from-betraying-their-owners/ |
 Why I Hate Security, Computers, and the Entire Modern Banking System by Sarah Jeong | https://motherboard.vice.com/read/why-i-hate-security-computers-and-the-entire-modern-banking-system | 
 
 ## Comics
