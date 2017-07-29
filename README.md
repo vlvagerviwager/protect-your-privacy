@@ -168,3 +168,4 @@ What | Where | Why
 --- | --- | ---
 Get your loved ones off Facebook., by SaintSal | http://saintsal.com/facebook/ |
 Reasons not to use (i.e., be used by) Facebook, by Richard Stallman | https://stallman.org/facebook.html |
+Facebook patent application describes spying on users through their webcams | https://www.dailydot.com/debug/facebook-spy-webcam-patent-ads/ |
