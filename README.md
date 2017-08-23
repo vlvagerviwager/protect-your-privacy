@@ -126,6 +126,7 @@ Microsoft’s Top Lawyer Becomes a Civil Rights Crusader | https://www.technolog
 Edward Snowden’s New Research Aims to Keep Smartphones From Betraying Their Owners | https://theintercept.com/2016/07/21/edward-snowdens-new-research-aims-to-keep-smartphones-from-betraying-their-owners/ |
 How Hired Hackers Got “Complete Control” Of Palantir | https://www.buzzfeed.com/williamalden/how-hired-hackers-got-complete-control-of-palantir?utm_term=.pbJL9Onm3q#.sgza8Ny9e7 | "A piece of security software called Little Snitch — which regulates data sent out from a computer to the internet — was installed on one of the information security employees’ laptops, and it flagged the suspicious upload attempt, the report says."
 Why I Hate Security, Computers, and the Entire Modern Banking System by Sarah Jeong | https://motherboard.vice.com/read/why-i-hate-security-computers-and-the-entire-modern-banking-system | 
+On WikiLeaks, Journalism, and Privacy: Reporting on the Podesta Archive Is an Easy Call | https://theintercept.com/2016/10/13/on-wikileaks-journalism-and-privacy-reporting-on-the-podesta-archive-is-an-easy-call/ | 
 
 ## Comics
 
