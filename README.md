@@ -69,6 +69,7 @@ Brave Browser | https://brave.com/ | "Brave aims to transform the online ad ecos
 
 What | Where | Why
 --- | --- | ---
+HTTPS Everywhere | https://www.eff.org/https-everywhere | "HTTPS Everywhere is a Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure."
 Privacy Badger | https://www.eff.org/privacybadger | Blocks spying ads and invisible trackers; open source, created by the EFF. Focuses on privacy instead of solely ad-blocking.
 uBlock Origin (**not** uBlock) | https://github.com/gorhill/uBlock | Free and open source ad-blocker.
 
