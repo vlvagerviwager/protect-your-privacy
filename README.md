@@ -179,8 +179,9 @@ Microsoft retroactively removes ability of companies to turn off Windows Store i
 
 ### Facebook (is evil)
 
-What | Where | Why
+What | Where | Why | Date
 --- | --- | ---
-Get your loved ones off Facebook., by SaintSal | http://saintsal.com/facebook/ |
-Reasons not to use (i.e., be used by) Facebook, by Richard Stallman | https://stallman.org/facebook.html |
-Facebook patent application describes spying on users through their webcams | https://www.dailydot.com/debug/facebook-spy-webcam-patent-ads/ |
+Revealed: 50 million Facebook profiles harvested for Cambridge Analytica in major data breach | https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election | | 17/03/2018
+Get your loved ones off Facebook., by SaintSal | http://saintsal.com/facebook/ | |
+Reasons not to use (i.e., be used by) Facebook, by Richard Stallman | https://stallman.org/facebook.html | |
+Facebook patent application describes spying on users through their webcams | https://www.dailydot.com/debug/facebook-spy-webcam-patent-ads/ | |
