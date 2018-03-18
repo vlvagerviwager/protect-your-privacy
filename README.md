@@ -18,6 +18,7 @@ _Disclaimer:_ The information and products below is for general information purp
 What | Where | Why
 --- | --- | ---
 have i been pwned? | https://haveibeenpwned.com/ | "Check if you have an account that has been compromised in a data breach"
+How to Make a Clean Break With the Clingiest Social Networks | https://www.wired.com/story/how-to-delete-your-facebook-instagram-twitter-snapchat/ | 
 Decent Security | http://decentsecurity.com/ | Start somewhere. Start here.
 The Not-Crazy Person’s Guide to Online Privacy | www.bloomberg.com/news/articles/2016-07-20/the-not-crazy-person-s-guide-to-online-privacy | 
 Crypto Projects that Might not Suck | https://github.com/sweis/crypto-might-not-suck/blob/master/README.md | 
