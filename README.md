@@ -48,7 +48,8 @@ Vanessa Otero's chart about news sources | https://twitter.com/vlotero/status/80
 
 What | Where | Why
 --- | --- | ---
-Signal | https://whispersystems.org/blog/signal/ | Open source, E2E encryption; desktop, iOS, and Android apps available.
+Wire | https://wire.com/en/ | "Wire is an encrypted communication and collaboration program created by Wire Swiss. It works on iOS, Android, Linux, Windows, macOS and web browsers such as Firefox." Open source secure messenger. Better UX than Signal.
+Signal | https://whispersystems.org/blog/signal/ | Open source, E2E encryption; desktop, iOS, and Android apps available. Used by Edward Snowden. 
 [EXPERIMENTAL] Ricochet | https://github.com/ricochet-im/ricochet | Anonymous metadata-resistant instant messaging that just worksbreach"
 
 ### Email
@@ -56,7 +57,7 @@ Signal | https://whispersystems.org/blog/signal/ | Open source, E2E encryption; 
 What | Where | Why
 --- | --- | ---
 ProtonMail | https://protonmail.com/ | "Secure email based in Switzerland"
-Tutanota | https://github.com/ricochet-im/ricochet | Open source encrypted mailbox
+Tutanota | https://github.com/ricochet-im/ricochet | Open source encrypted mailbox.
 Lavabit | https://lavabit.com/ | Back up with a limited release as of January 2017.
 
 ### Browser
@@ -86,7 +87,7 @@ ixquick | https://ixquick.com/ | The world’s most private search engine.
 
 What | Where | Why
 --- | --- | ---
-KeePassX | https://www.keepassx.org/ | 
+KeePassX | https://www.keepassx.org/ | Offline password manager.
 
 ### Operating system
 
