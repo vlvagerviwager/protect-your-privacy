@@ -1,4 +1,5 @@
-# Protect your privacy
+# Protect Your Privacy
+
 Protect your privacy. Originally hosted on Tumblr, bringing it to Github to make it easier for others to contribute.
 
 Feedback, issues, and PRs welcome. URLs are listed rather than using hyperlinks to make the source clear.
