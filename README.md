@@ -46,7 +46,7 @@ Vanessa Otero's chart about news sources | https://twitter.com/vlotero/status/80
 
 ## Tools
 
-### IM
+### IM / Messaging
 
 What | Where | Why
 --- | --- | ---
@@ -69,15 +69,15 @@ What | Where | Why
 Tor Browser | https://www.torproject.org/projects/torbrowser.html.en | 
 Brave Browser | https://brave.com/ | "Brave aims to transform the online ad ecosystem with micropayments and a new revenue-sharing solution to give users and publishers a better deal, where fast, safe browsing is the path to a brighter future for the open web."
 
-### Browser plugin
+### Browser Plugin
 
 What | Where | Why
 --- | --- | ---
 HTTPS Everywhere | https://www.eff.org/https-everywhere | "HTTPS Everywhere is a Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure."
 Privacy Badger | https://www.eff.org/privacybadger | Blocks spying ads and invisible trackers; open source, created by the EFF. Focuses on privacy instead of solely ad-blocking.
-uBlock Origin (**not** uBlock) | https://github.com/gorhill/uBlock | Free and open source ad-blocker.
+uBlock Origin (**not** "uBlock") | https://github.com/gorhill/uBlock | Free and open source ad-blocker.
 
-### Search engine
+### Search Engine
 
 What | Where | Why
 --- | --- | ---
@@ -85,13 +85,13 @@ DuckDuckGo | https://duckduckgo.com/ | The search engine that doesn’t track yo
 StartPage | https://startpage.com/ | The privacy of Ixquick combined with search results from Google.
 ixquick | https://ixquick.com/ | The world’s most private search engine.
 
-### Password manager
+### Password Manager
 
 What | Where | Why
 --- | --- | ---
 KeePassX | https://www.keepassx.org/ | Offline password manager.
 
-### Operating system
+### Operating System (OS)
 
 What | Where | Why
 --- | --- | ---
@@ -104,7 +104,7 @@ What | Where | Why
 --- | --- | ---
 PGP | http://philzimmermann.com/EN/findpgp/ | Pretty Good Privacy (PGP) is a data encryption and decryption computer program that provides cryptographic privacy and authentication for data communication.
 
-### Enterprise privacy platform
+### Enterprise Privacy Platform
 
 What | Where | Why
 --- | --- | ---
