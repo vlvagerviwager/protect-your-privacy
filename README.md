@@ -30,6 +30,7 @@ Kids need to reclaim their data and security… especially at school | https://t
 Deploying uBlock Origin for Firefox with CCK2 and Group Policy | https://decentsecurity.com/ublock-for-firefox-deployment/ | Block ads in Firefox at your company.
 Adblocking for Internet Explorer without an extension: Enterprise deployment | https://decentsecurity.com/adblocking-for-internet-explorer-deployment/ | Block ads in IE at your company.
 How to Keep Your Internet Browser History Private | http://www.teenvogue.com/story/how-to-keep-your-internet-history-private
+Request your consumer score and data from Sift | https://www.nytimes.com/2019/11/04/business/secret-consumer-score-access.html
 
 ## General news / info
 
