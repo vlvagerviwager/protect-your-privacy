@@ -17,7 +17,7 @@ _Disclaimer:_ The information and products below is for general information purp
 ## General privacy tips
 
 What | Where | Why | Year Added
---- | --- | ---
+--- | --- | --- | ---
 have i been pwned? | https://haveibeenpwned.com/ | "Check if you have an account that has been compromised in a data breach"
 How to Make a Clean Break With the Clingiest Social Networks | https://www.wired.com/story/how-to-delete-your-facebook-instagram-twitter-snapchat/ | 
 Decent Security | http://decentsecurity.com/ | Start somewhere. Start here.
@@ -37,7 +37,7 @@ PrivacyTools | https://www.privacytools.io | "PrivacyTools provides services, to
 ## General News / Info
 
 What | Where | Why | Year Added
---- | --- | ---
+--- | --- | --- | ---
 The Intercept | https://firstlook.org/theintercept/ |
 Enemies of the Internet | http://surveillance.rsf.org/en/ |
 The 7 Privacy Tools Essential to Making Snowden Documentary CITIZENFOUR | http://www.angrysummit.com/the-7-privacy-tools-essential-to-making-snowden-documentary-citizenfour |
@@ -50,14 +50,14 @@ Vanessa Otero's chart about news sources | https://twitter.com/vlotero/status/80
 ### IM / Messaging
 
 What | Where | Why | Year Added
---- | --- | ---
+--- | --- | --- | ---
 Signal | https://whispersystems.org/blog/signal/ | Open source, E2E encryption; desktop, iOS, and Android apps available. Used by Edward Snowden. 
 [EXPERIMENTAL] Ricochet | https://github.com/ricochet-im/ricochet | Anonymous metadata-resistant instant messaging that just worksbreach"
 
 ### Email
 
 What | Where | Why | Year Added
---- | --- | ---
+--- | --- | --- | ---
 ProtonMail | https://protonmail.com/ | "Secure email based in Switzerland"
 Tutanota | https://github.com/ricochet-im/ricochet | Open source encrypted mailbox.
 Lavabit | https://lavabit.com/ | Back up with a limited release as of January 2017.
@@ -72,7 +72,7 @@ Brave Browser | https://brave.com/ | "Brave aims to transform the online ad ecos
 ### Browser Plugin
 
 What | Where | Why | Year Added
---- | --- | ---
+--- | --- | --- | ---
 HTTPS Everywhere | https://www.eff.org/https-everywhere | "HTTPS Everywhere is a Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure."
 Privacy Badger | https://www.eff.org/privacybadger | Blocks spying ads and invisible trackers; open source, created by the EFF. Focuses on privacy instead of solely ad-blocking.
 uBlock Origin (**not** "uBlock") | https://github.com/gorhill/uBlock | Free and open source ad-blocker.
@@ -80,7 +80,7 @@ uBlock Origin (**not** "uBlock") | https://github.com/gorhill/uBlock | Free and 
 ### Search Engine
 
 What | Where | Why | Year Added
---- | --- | ---
+--- | --- | --- | ---
 DuckDuckGo | https://duckduckgo.com/ | The search engine that doesn’t track you.
 StartPage | https://startpage.com/ | The privacy of Ixquick combined with search results from Google.
 ixquick | https://ixquick.com/ | The world’s most private search engine.
@@ -88,39 +88,39 @@ ixquick | https://ixquick.com/ | The world’s most private search engine.
 ### Password Manager
 
 What | Where | Why | Year Added
---- | --- | ---
+--- | --- | --- | ---
 KeePassX | https://www.keepassx.org/ | Offline password manager.
 
 ### Operating System (OS)
 
 What | Where | Why | Year Added
---- | --- | ---
+--- | --- | --- | ---
 Tails OS | https://tails.boum.org/ | Portable amnesiac live operating system, aimed at protecting privacy; used by Edward Snowden.
 Qubes OS | https://www.qubes-os.org/ | Uses Security by Compartmentalization approach.
 
 ### Encryption
 
 What | Where | Why | Year Added
---- | --- | ---
+--- | --- | --- | ---
 PGP | http://philzimmermann.com/EN/findpgp/ | Pretty Good Privacy (PGP) is a data encryption and decryption computer program that provides cryptographic privacy and authentication for data communication.
 
 ### Enterprise Privacy Platform
 
 What | Where | Why | Year Added
---- | --- | ---
+--- | --- | --- | ---
 Silent Circle | https://silentcircle.com/ | Check out their Blackphone.
 
 ### VPN
 
 What | Where | Why | Year Added
---- | --- | ---
+--- | --- | --- | ---
 ProtonVPN | https://protonvpn.com/ | By the creators of ProtonMail.
 ZenMate | https://zenmate.com/ | Chrome extension, encrypts and secures your connection.
 
 ## Opinion
 
 What | Where | Why | Year Added
---- | --- | ---
+--- | --- | --- | ---
 CISA AMA with Fight for the Future, Senator Wyden, etc. | https://www.reddit.com/r/IAmA/comments/3qban2/oh_look_its_that_cisa_surveillance_bill_again/ | 
 The coming collapse of surveillance marketing, by Doc Searls | http://blogs.law.harvard.edu/vrm/2015/08/03/the-coming-collapse-of-surveillance-marketing/ | "It’s about the wanton and widespread harvesting of personal data without permission"
 Hacking Team gets hacked | http://www.csoonline.com/article/2943968/data-breach/hacking-team-hacked-attackers-claim-400gb-in-dumped-data.html | 
@@ -136,20 +136,20 @@ On WikiLeaks, Journalism, and Privacy: Reporting on the Podesta Archive Is an Ea
 ## Comics
 
 What | Where | Why | Year Added
---- | --- | ---
+--- | --- | --- | ---
 Into the Abyss: The NSA’s Global Internet Surveillance | https://www.aclu.org/infographic/abyss-nsas-global-internet-surveillance |
 
 ## Movies
 
 What | Where | Why | Year Added
---- | --- | ---
+--- | --- | --- | ---
 CITIZENFOUR | https://citizenfourfilm.com/ | Documentary
 Ai Weiwei: Never Sorry | http://www.aiweiweineversorry.com/ | Documentary
 
 ## Books
 
 What | By | Where | Year Added
---- | --- | ---
+--- | --- | --- | ---
 Permanent Record | Edward Snowden | 
 The Cuckoo's Egg | Cliff Stoll |
 Beyond Fear: Thinking Sensibly about Security in an Uncertain World | Bruce Schneier | https://www.schneier.com/books/beyond_fear/
@@ -159,7 +159,7 @@ American Spies: Modern Surveillance, Why You Should Care, and What to Do About I
 ## Donate
 
 What | Where | Why | Year Added
---- | --- | ---
+--- | --- | --- | ---
 Donate to the Electronic Frontier Foundation (EFF) - Fight for Privacy and the Open Internet | https://supporters.eff.org/donate/fcc-privacy-rules-s |
 Donate to the ACLU | https://action.aclu.org/secure/donate-to-aclu |
 COURAGE emergency funding drive | https://fundrazr.com/d19Bc3 | Courage manages the legal and public defence of whistleblowers and activists, from Edward Snowden to Chelsea Manning, from Barrett Brown to Lauri Love.
@@ -169,13 +169,13 @@ COURAGE emergency funding drive | https://fundrazr.com/d19Bc3 | Courage manages 
 ### Google
 
 What | Where | Why | Year Added
---- | --- | ---
+--- | --- | --- | ---
 Please Make Google AMP Optional | https://www.alexkras.com/please-make-google-amp-optional/ | "I was reading some articles on Hacker News about how we’ve lost the internet to big companies and how we are not doing anything about it and it got me thinking about Google’s Accelerated Mobile Pages (AMP) again."
 
 ### Windows 10
 
 What | Where | Why | Year Added
---- | --- | ---
+--- | --- | --- | ---
 WindowsLies / BlockWindows | https://github.com/WindowsLies/BlockWindows | "Stop Windows 10 Nagging and Spying. Works with Win7-10"
 Windows 10 Is Spying On You: Here’s How To Stop It | http://www.rockpapershotgun.com/2015/07/30/windows-10-privacy-settings/ | 
 Even when told not to, Windows 10 just can’t stop talking to Microsoft | http://arstechnica.com/information-technology/2015/08/even-when-told-not-to-windows-10-just-cant-stop-talking-to-microsoft/ | 
@@ -184,9 +184,9 @@ Microsoft retroactively removes ability of companies to turn off Windows Store i
 
 ### Facebook
 
-What | Where | Why | Date | Year Added
---- | --- | --- | --- 
-Revealed: 50 million Facebook profiles harvested for Cambridge Analytica in major data breach | https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election | | 17/03/2018
+What | Where | Why | Year Added
+--- | --- | --- | ---
+Revealed: 50 million Facebook profiles harvested for Cambridge Analytica in major data breach | https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election | | 2018
 Get your loved ones off Facebook., by SaintSal | http://saintsal.com/facebook/ | |
 Reasons not to use (i.e., be used by) Facebook, by Richard Stallman | https://stallman.org/facebook.html | |
 Facebook patent application describes spying on users through their webcams | https://www.dailydot.com/debug/facebook-spy-webcam-patent-ads/ | |
