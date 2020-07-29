@@ -24,14 +24,13 @@ Decent Security | http://decentsecurity.com/ | Start somewhere. Start here.
 The Not-Crazy Person’s Guide to Online Privacy | www.bloomberg.com/news/articles/2016-07-20/the-not-crazy-person-s-guide-to-online-privacy | 
 Crypto Projects that Might not Suck | https://github.com/sweis/crypto-might-not-suck/blob/master/README.md | 
 DeleteMe | https://www.abine.com/deleteme/landing.php | Opt out of most people search/public background check sites (@SwiftOnSecurity).
-Beefing up Privacy | https://hackernoon.com/beefing-up-privacy-7a749befea32#.h6b7cp1sq | Why and how I’ve become more concerned about my privacy.
+Beefing up Privacy | https://web.archive.org/web/20170809120204/https://hackernoon.com/beefing-up-privacy-7a749befea32 | Why and how I’ve become more concerned about my privacy.
 Mac user? Tips and tools to help you protect your data and communications. | https://ssd.eff.org/en/playlist/mac-user |
 Famed Hacker Kevin Mitnick Shows You How to Go Invisible Online | https://www.wired.com/2017/02/famed-hacker-kevin-mitnick-shows-go-invisible-online |
 Kids need to reclaim their data and security… especially at school | https://techcrunch.com/2016/09/21/kids-need-to-reclaim-their-data-and-security-especially-at-school/ |
-Deploying uBlock Origin for Firefox with CCK2 and Group Policy | https://decentsecurity.com/ublock-for-firefox-deployment/ | Block ads in Firefox at your company.
 Adblocking for Internet Explorer without an extension: Enterprise deployment | https://decentsecurity.com/adblocking-for-internet-explorer-deployment/ | Block ads in IE at your company.
 How to Keep Your Internet Browser History Private | http://www.teenvogue.com/story/how-to-keep-your-internet-history-private
-Request your consumer score and data from Sift | https://www.nytimes.com/2019/11/04/business/secret-consumer-score-access.html
+Request your consumer score and data from Sift | https://web.archive.org/web/20191104102015/https://www.nytimes.com/2019/11/04/business/secret-consumer-score-access.html
 PrivacyTools | https://www.privacytools.io | "PrivacyTools provides services, tools and knowledge to protect your privacy against global mass surveillance." | 2020
 
 ## General News / Info
@@ -39,8 +38,8 @@ PrivacyTools | https://www.privacytools.io | "PrivacyTools provides services, to
 What | Where | Why | Year Added
 --- | --- | --- | ---
 The Intercept | https://firstlook.org/theintercept/ |
-Enemies of the Internet | http://surveillance.rsf.org/en/ |
-The 7 Privacy Tools Essential to Making Snowden Documentary CITIZENFOUR | http://www.angrysummit.com/the-7-privacy-tools-essential-to-making-snowden-documentary-citizenfour |
+Enemies of the Internet | https://web.archive.org/web/20171124081709/http://surveillance.rsf.org/en/ |
+The 7 Privacy Tools Essential to Making Snowden Documentary CITIZENFOUR | https://web.archive.org/web/20150929213238/http://www.angrysummit.com/the-7-privacy-tools-essential-to-making-snowden-documentary-citizenfour
 Edward Snowden Explains How To Reclaim Your Privacy | https://theintercept.com/2015/11/12/edward-snowden-explains-how-to-reclaim-your-privacy/ |
 OpenSecrets.org | http://www.opensecrets.org/ | "The Center for Responsive Politics is the nation's premier research group tracking money in U.S. politics and its effect on elections and public policy."
 Vanessa Otero's chart about news sources | https://twitter.com/vlotero/status/808696317174288387 |
@@ -51,7 +50,7 @@ Vanessa Otero's chart about news sources | https://twitter.com/vlotero/status/80
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
-Signal | https://whispersystems.org/blog/signal/ | Open source, E2E encryption; desktop, iOS, and Android apps available. Used by Edward Snowden. 
+Signal | https://signal.org/ | Open source, E2E encryption; desktop, iOS, and Android apps available. Used by Edward Snowden. 
 [EXPERIMENTAL] Ricochet | https://github.com/ricochet-im/ricochet | Anonymous metadata-resistant instant messaging that just worksbreach"
 
 ### Email
@@ -65,7 +64,7 @@ Lavabit | https://lavabit.com/ | Back up with a limited release as of January 20
 ### Browser
 
 What | Where | Why | Year Added
---- | --- | ---
+--- | --- | --- | ---
 Tor Browser | https://www.torproject.org/projects/torbrowser.html.en | 
 Brave Browser | https://brave.com/ | "Brave aims to transform the online ad ecosystem with micropayments and a new revenue-sharing solution to give users and publishers a better deal, where fast, safe browsing is the path to a brighter future for the open web."
 
@@ -82,8 +81,7 @@ uBlock Origin (**not** "uBlock") | https://github.com/gorhill/uBlock | Free and 
 What | Where | Why | Year Added
 --- | --- | --- | ---
 DuckDuckGo | https://duckduckgo.com/ | The search engine that doesn’t track you.
-StartPage | https://startpage.com/ | The privacy of Ixquick combined with search results from Google.
-ixquick | https://ixquick.com/ | The world’s most private search engine.
+StartPage | https://startpage.com/ | The privacy of Ixquick combined with search results from Google. 
 
 ### Password Manager
 
@@ -125,12 +123,12 @@ CISA AMA with Fight for the Future, Senator Wyden, etc. | https://www.reddit.com
 The coming collapse of surveillance marketing, by Doc Searls | http://blogs.law.harvard.edu/vrm/2015/08/03/the-coming-collapse-of-surveillance-marketing/ | "It’s about the wanton and widespread harvesting of personal data without permission"
 Hacking Team gets hacked | http://www.csoonline.com/article/2943968/data-breach/hacking-team-hacked-attackers-claim-400gb-in-dumped-data.html | 
 Ai Weiwei is Living in Our Future | https://medium.com/@hansdezwart/ai-weiwei-is-living-in-our-future-474e5dd15e4f | 
-Facebook, Twitter and Instagram sent feeds that helped police track minorities in Ferguson and Baltimore, report says | https://www.washingtonpost.com/news/the-switch/wp/2016/10/11/facebook-twitter-and-instagram-sent-feeds-that-helped-police-track-minorities-in-ferguson-and-baltimore-aclu-says/ |
+Facebook, Twitter and Instagram sent feeds that helped police track minorities in Ferguson and Baltimore, report says | https://web.archive.org/web/20161220193044/https://www.washingtonpost.com/news/the-switch/wp/2016/10/11/facebook-twitter-and-instagram-sent-feeds-that-helped-police-track-minorities-in-ferguson-and-baltimore-aclu-says/ |
 What Yahoo’s NSA Surveillance Means for Email Privacy | https://protonmail.com/blog/yahoo-us-intelligence/ |
 Microsoft’s Top Lawyer Becomes a Civil Rights Crusader | https://www.technologyreview.com/s/602311/microsofts-top-lawyer-becomes-a-civil-rights-crusader/ |
 Edward Snowden’s New Research Aims to Keep Smartphones From Betraying Their Owners | https://theintercept.com/2016/07/21/edward-snowdens-new-research-aims-to-keep-smartphones-from-betraying-their-owners/ |
-How Hired Hackers Got “Complete Control” Of Palantir | https://www.buzzfeed.com/williamalden/how-hired-hackers-got-complete-control-of-palantir?utm_term=.pbJL9Onm3q#.sgza8Ny9e7 | "A piece of security software called Little Snitch — which regulates data sent out from a computer to the internet — was installed on one of the information security employees’ laptops, and it flagged the suspicious upload attempt, the report says."
-Why I Hate Security, Computers, and the Entire Modern Banking System by Sarah Jeong | https://motherboard.vice.com/read/why-i-hate-security-computers-and-the-entire-modern-banking-system | 
+How Hired Hackers Got “Complete Control” Of Palantir | https://www.buzzfeed.com/williamalden/how-hired-hackers-got-complete-control-of-palantir | "A piece of security software called Little Snitch — which regulates data sent out from a computer to the internet — was installed on one of the information security employees’ laptops, and it flagged the suspicious upload attempt, the report says."
+Why I Hate Security, Computers, and the Entire Modern Banking System by Sarah Jeong | https://web.archive.org/web/20200109084424/https://www.vice.com/en_us/article/jpg54g/why-i-hate-security-computers-and-the-entire-modern-banking-system |
 On WikiLeaks, Journalism, and Privacy: Reporting on the Podesta Archive Is an Easy Call | https://theintercept.com/2016/10/13/on-wikileaks-journalism-and-privacy-reporting-on-the-podesta-archive-is-an-easy-call/ | 
 
 ## Comics
@@ -143,7 +141,7 @@ Into the Abyss: The NSA’s Global Internet Surveillance | https://www.aclu.org/
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
-CITIZENFOUR | https://citizenfourfilm.com/ | Documentary
+CITIZENFOUR | https://citizenfourfilm.com/ | Documentary | 2014
 Ai Weiwei: Never Sorry | http://www.aiweiweineversorry.com/ | Documentary
 
 ## Books
@@ -154,7 +152,7 @@ Permanent Record | Edward Snowden |
 The Cuckoo's Egg | Cliff Stoll |
 Beyond Fear: Thinking Sensibly about Security in an Uncertain World | Bruce Schneier | https://www.schneier.com/books/beyond_fear/
 The Smart Girl's Guide to Privacy | Violet Blue | https://www.nostarch.com/smartgirlsguide
-American Spies: Modern Surveillance, Why You Should Care, and What to Do About It | Jennifer Granick | https://www.americanspies.com/
+American Spies: Modern Surveillance, Why You Should Care, and What to Do About It | Jennifer Granick | 
 
 ## Donate
 
@@ -162,7 +160,6 @@ What | Where | Why | Year Added
 --- | --- | --- | ---
 Donate to the Electronic Frontier Foundation (EFF) - Fight for Privacy and the Open Internet | https://supporters.eff.org/donate/fcc-privacy-rules-s |
 Donate to the ACLU | https://action.aclu.org/secure/donate-to-aclu |
-COURAGE emergency funding drive | https://fundrazr.com/d19Bc3 | Courage manages the legal and public defence of whistleblowers and activists, from Edward Snowden to Chelsea Manning, from Barrett Brown to Lauri Love.
 
 ## Evil Products and Practices
  
