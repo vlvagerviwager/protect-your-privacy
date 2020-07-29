@@ -50,7 +50,6 @@ Vanessa Otero's chart about news sources | https://twitter.com/vlotero/status/80
 
 What | Where | Why
 --- | --- | ---
-Wire | https://wire.com/en/ | "Wire is an encrypted communication and collaboration program created by Wire Swiss. It works on iOS, Android, Linux, Windows, macOS and web browsers such as Firefox." Open source secure messenger. Better UX than Signal.
 Signal | https://whispersystems.org/blog/signal/ | Open source, E2E encryption; desktop, iOS, and Android apps available. Used by Edward Snowden. 
 [EXPERIMENTAL] Ricochet | https://github.com/ricochet-im/ricochet | Anonymous metadata-resistant instant messaging that just worksbreach"
 
