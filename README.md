@@ -2,6 +2,36 @@
 
 Curated privacy resources for the layperson, by a software developer and computer forensics/infosec graduate. Highlights resources, tools, VPNs, search engines, articles, books, and dark patterns.  Originally hosted on Tumblr, migrated to GitHub in 2015 to make it easier for others to contribute.
 
+## Table of Contents
+
+* [ℹ️ Feedback](#ℹ️-feedback)
+* [ℹ️ Explanation of the Table Column Titles](#ℹ️-explanation-of-the-table-column-titles)
+* [⚠️ Disclaimer](#️-disclaimer)
+* [General Privacy Tooling Tips](#general-privacy-tooling-tips)
+* [Privacy Resources](#privacy-resources)
+* [General News / Info](#general-news--info)
+* [Tools](#tools)
+    * [IM / Messaging](#im--messaging)
+    * [Email](#email)
+    * [Browser](#browser)
+    * [Browser Plugin](#browser-plugin)
+    * [Search Engine](#search-engine)
+    * [Password Manager](#password-manager)
+    * [Operating System (OS)](#operating-system-os)
+    * [Encryption](#encryption)
+    * [Enterprise Privacy Platform](#enterprise-privacy-platform)
+    * [VPN](#vpn)
+* [Opinion and Entertainment](#opinion-and-entertainment)
+    * [Opinion Pieces](#opinion-pieces)
+    * [Comics](#comics)
+    * [Movies](#movies)
+    * [Books (A - Z)](#books-a---z)
+* [Donate](#donate)
+* [Dark Patterns](#dark-patterns)
+    * [Google](#google)
+    * [Windows 10](#windows-10)
+    * [Facebook](#facebook)
+
 ## ℹ️ Feedback
 
 Feedback, [issues](https://github.com/vlvagerviwager/protect-your-privacy/issues/new), and [pull requests](https://github.com/vlvagerviwager/protect-your-privacy/pulls) welcome.
