@@ -1,12 +1,19 @@
 # Protect Your Privacy
 
-Protect your privacy. Originally hosted on Tumblr, bringing it to Github to make it easier for others to contribute.
+Protect your privacy. Originally hosted on Tumblr, migrated to GitHub in 2015 to make it easier for others to contribute.
 
-Feedback, issues, and PRs welcome. URLs are listed rather than using hyperlinks to make the source clear.
+Feedback, [issues](https://github.com/vlvagerviwager/protect-your-privacy/issues/new), and [pull requests](https://github.com/vlvagerviwager/protect-your-privacy/pulls) welcome.
 
-_Disclaimer:_ The information and products below is for general information purposes only. Any reliance you place on such information is strictly at your own risk.
+An explanation of the table columns titles:
 
-**Tips:**
+- What: The title of the resource.
+- Where: The link to the resource. The full URL is shown for transparency and to avoid phishing. 
+- Why: Why this is recommended as a legitimate tool for privacy. 
+- Year Added: This is a quick way for you to see if the resource may be outdated, rather than having to use git blame. 
+
+⚠️ **_Disclaimer:_** The information and products below is for general information purposes only. Any reliance you place on such information is strictly at your own risk.
+
+## General Privacy Tooling Tips 
 
 - Fully open source = peer review, no backdoors. 
 - Look for _fully_ open source tools, not just opened encryption implementation etc. 
@@ -14,7 +21,7 @@ _Disclaimer:_ The information and products below is for general information purp
 - Watch out for proprietary cores. 
 - Before trying a new tool, check that it still exists, is secure (depending on your criteria), and has not been bought/taken over by another body which does not uphold high standards for security and privacy. 
 
-## General privacy tips
+## Privacy Resources
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
@@ -112,9 +119,9 @@ Silent Circle | https://silentcircle.com/ | Check out their Blackphone.
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
-NordVPN | https://nordvpn.com/ | "NordVPN encrypts your internet traffic and hides your IP and physical location. Works on 6 devices at once, on every major platform."
+NordVPN | https://nordvpn.com/ | "NordVPN encrypts your internet traffic and hides your IP and physical location. Works on 6 devices at once, on every major platform." | 2020
 ProtonVPN | https://protonvpn.com/ | By the creators of ProtonMail.
-That One Privacy Site | https://thatoneprivacysite.net/ | Not a VPN, but a VPN comparison resource.
+That One Privacy Site | https://thatoneprivacysite.net/ | Not a VPN, but a VPN comparison resource. | 2020
 
 ## Opinion
 
