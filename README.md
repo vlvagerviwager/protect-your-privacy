@@ -58,7 +58,7 @@ Vanessa Otero's chart about news sources | https://twitter.com/vlotero/status/80
 What | Where | Why | Year Added
 --- | --- | --- | ---
 Signal | https://signal.org/ | Open source, E2E encryption; desktop, iOS, and Android apps available. Used by Edward Snowden. 
-[EXPERIMENTAL] Ricochet | https://github.com/ricochet-im/ricochet | Anonymous metadata-resistant instant messaging that just worksbreach"
+[⚠️ Experimental] Ricochet | https://github.com/ricochet-im/ricochet | Anonymous metadata-resistant instant messaging that just worksbreach"
 
 ### Email
 
@@ -123,7 +123,9 @@ NordVPN | https://nordvpn.com/ | "NordVPN encrypts your internet traffic and hid
 ProtonVPN | https://protonvpn.com/ | By the creators of ProtonMail.
 That One Privacy Site | https://thatoneprivacysite.net/ | Not a VPN, but a VPN comparison resource. | 2020
 
-## Opinion
+## Opinion and Entertainment
+
+### Opinion Pieces
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
@@ -139,37 +141,38 @@ How Hired Hackers Got “Complete Control” Of Palantir | https://www.buzzfeed.
 Why I Hate Security, Computers, and the Entire Modern Banking System by Sarah Jeong | https://web.archive.org/web/20200109084424/https://www.vice.com/en_us/article/jpg54g/why-i-hate-security-computers-and-the-entire-modern-banking-system |
 On WikiLeaks, Journalism, and Privacy: Reporting on the Podesta Archive Is an Easy Call | https://theintercept.com/2016/10/13/on-wikileaks-journalism-and-privacy-reporting-on-the-podesta-archive-is-an-easy-call/ | 
 
-## Comics
+### Comics
 
-What | Where | Why | Year Added
---- | --- | --- | ---
+What | Where | Year Added
+--- | --- | --- | 
 Into the Abyss: The NSA’s Global Internet Surveillance | https://www.aclu.org/infographic/abyss-nsas-global-internet-surveillance |
 
-## Movies
+### Movies
 
-What | Where | Why | Year Added
+What | Where | Genre | Year Added
 --- | --- | --- | ---
 CITIZENFOUR | https://citizenfourfilm.com/ | Documentary | 2014
 Ai Weiwei: Never Sorry | http://www.aiweiweineversorry.com/ | Documentary
 
-## Books
+### Books (A - Z)
 
-What | By | Where | Year Added
+What | Author | Where | Year Added
 --- | --- | --- | ---
+American Spies: Modern Surveillance, Why You Should Care, and What to Do About It | Jennifer Granick | 
+Astro Noise: A Survival Guide to Living Under Total Surveillance | Laura Poitras | | 2020
+Beyond Fear: Thinking Sensibly about Security in an Uncertain World | Bruce Schneier | https://www.schneier.com/books/beyond_fear/
 Permanent Record | Edward Snowden | 
 The Cuckoo's Egg | Cliff Stoll |
-Beyond Fear: Thinking Sensibly about Security in an Uncertain World | Bruce Schneier | https://www.schneier.com/books/beyond_fear/
 The Smart Girl's Guide to Privacy | Violet Blue | https://www.nostarch.com/smartgirlsguide
-American Spies: Modern Surveillance, Why You Should Care, and What to Do About It | Jennifer Granick | 
 
 ## Donate
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
-Donate to the Electronic Frontier Foundation (EFF) - Fight for Privacy and the Open Internet | https://supporters.eff.org/donate/fcc-privacy-rules-s |
-Donate to the ACLU | https://action.aclu.org/secure/donate-to-aclu |
+Donate to the Electronic Frontier Foundation (EFF) - Fight for Privacy and the Open Internet | https://supporters.eff.org/donate/fcc-privacy-rules-s | [Timeline of Electronic Frontier Foundation actions (Wikipedia)](https://en.wikipedia.org/wiki/Timeline_of_Electronic_Frontier_Foundation_actions)
+Donate to the ACLU | https://action.aclu.org/secure/donate-to-aclu | [ACLU Accomplishments](https://www.aclu.org/aclu-accomplishments), [The Successes of the American Civil Liberties Union](https://www.aclu.org/successes-american-civil-liberties-union) |
 
-## Evil Products and Practices
+## Dark Patterns
  
 ### Google
 
