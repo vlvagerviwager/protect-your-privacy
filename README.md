@@ -112,8 +112,9 @@ Silent Circle | https://silentcircle.com/ | Check out their Blackphone.
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
+NordVPN | https://nordvpn.com/ | "NordVPN encrypts your internet traffic and hides your IP and physical location. Works on 6 devices at once, on every major platform."
 ProtonVPN | https://protonvpn.com/ | By the creators of ProtonMail.
-ZenMate | https://zenmate.com/ | Chrome extension, encrypts and secures your connection.
+That One Privacy Site | https://thatoneprivacysite.net/ | Not a VPN, but a VPN comparison resource.
 
 ## Opinion
 
