@@ -1,17 +1,21 @@
 # Protect Your Privacy
 
-Privacy resources for the layperson. Originally hosted on Tumblr, migrated to GitHub in 2015 to make it easier for others to contribute.
+Curated privacy resources for the layperson, by a software developer and computer forensics/infosec graduate. Highlights resources, tools, VPNs, search engines, articles, books, and dark patterns.  Originally hosted on Tumblr, migrated to GitHub in 2015 to make it easier for others to contribute.
+
+## ℹ️ Feedback
 
 Feedback, [issues](https://github.com/vlvagerviwager/protect-your-privacy/issues/new), and [pull requests](https://github.com/vlvagerviwager/protect-your-privacy/pulls) welcome.
 
-An explanation of the table columns titles:
+## ℹ️ Explanation of the Table Column Titles
 
 - What: The title of the resource.
 - Where: The link to the resource. The full URL is shown for transparency and to avoid phishing. 
 - Why: Why this is recommended as a legitimate tool for privacy. 
 - Year Added: This is a quick way for you to see if the resource may be outdated, rather than having to use git blame. 
 
-⚠️ **_Disclaimer:_** The information and products below is for general information purposes only. Any reliance you place on such information is strictly at your own risk.
+## ⚠️ Disclaimer
+
+The information and products below is for general information purposes only. Any reliance you place on such information is strictly at your own risk.
 
 ## General Privacy Tooling Tips 
 
