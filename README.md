@@ -1,6 +1,6 @@
 # Protect Your Privacy
 
-Protect your privacy. Originally hosted on Tumblr, migrated to GitHub in 2015 to make it easier for others to contribute.
+Privacy resources for the layperson. Originally hosted on Tumblr, migrated to GitHub in 2015 to make it easier for others to contribute.
 
 Feedback, [issues](https://github.com/vlvagerviwager/protect-your-privacy/issues/new), and [pull requests](https://github.com/vlvagerviwager/protect-your-privacy/pulls) welcome.
 
