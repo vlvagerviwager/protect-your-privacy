@@ -117,7 +117,7 @@ HTTPS Everywhere | https://www.eff.org/https-everywhere | "HTTPS Everywhere is a
 Privacy Badger | https://www.eff.org/privacybadger | Blocks spying ads and invisible trackers; open source, created by the EFF. Focuses on privacy instead of solely ad-blocking.
 uBlock Origin (**not** "uBlock") | https://github.com/gorhill/uBlock | Free and open source ad-blocker.
 
-### Search Engine
+### Search Engine (A - Z)
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
@@ -130,7 +130,7 @@ What | Where | Why | Year Added
 --- | --- | --- | ---
 KeePassX | https://www.keepassx.org/ | Offline password manager.
 
-### Operating System (OS)
+### Operating System (OS) (A - Z)
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
@@ -149,7 +149,7 @@ What | Where | Why | Year Added
 --- | --- | --- | ---
 Silent Circle | https://silentcircle.com/ | Check out their Blackphone.
 
-### VPN
+### VPN (A - Z)
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
@@ -181,12 +181,12 @@ What | Where | Year Added
 --- | --- | --- | 
 Into the Abyss: The NSA’s Global Internet Surveillance | https://www.aclu.org/infographic/abyss-nsas-global-internet-surveillance |
 
-### Movies
+### Movies (A - Z)
 
 What | Where | Genre | Year Added
 --- | --- | --- | ---
-CITIZENFOUR | https://citizenfourfilm.com/ | Documentary | 2014
 Ai Weiwei: Never Sorry | http://www.aiweiweineversorry.com/ | Documentary
+CITIZENFOUR | https://citizenfourfilm.com/ | Documentary | 2014
 
 ### Books (A - Z)
 
@@ -199,12 +199,12 @@ Permanent Record | Edward Snowden |
 The Cuckoo's Egg | Cliff Stoll |
 The Smart Girl's Guide to Privacy | Violet Blue | https://www.nostarch.com/smartgirlsguide
 
-## Donate
+## Donate (A - Z)
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
-Donate to the Electronic Frontier Foundation (EFF) - Fight for Privacy and the Open Internet | https://supporters.eff.org/donate/fcc-privacy-rules-s | [Timeline of Electronic Frontier Foundation actions (Wikipedia)](https://en.wikipedia.org/wiki/Timeline_of_Electronic_Frontier_Foundation_actions)
-Donate to the ACLU | https://action.aclu.org/secure/donate-to-aclu | [ACLU Accomplishments](https://www.aclu.org/aclu-accomplishments), [The Successes of the American Civil Liberties Union](https://www.aclu.org/successes-american-civil-liberties-union) |
+American Civil Liberties Union (ACLU) | https://action.aclu.org/secure/donate-to-aclu | [ACLU Accomplishments](https://www.aclu.org/aclu-accomplishments), [The Successes of the American Civil Liberties Union](https://www.aclu.org/successes-american-civil-liberties-union) |
+Electronic Frontier Foundation (EFF) | https://supporters.eff.org/donate/fcc-privacy-rules-s | [Timeline of Electronic Frontier Foundation actions (Wikipedia)](https://en.wikipedia.org/wiki/Timeline_of_Electronic_Frontier_Foundation_actions)
 
 ## Dark Patterns
  
