@@ -6,9 +6,9 @@ The table of contents generated using [gh-md-toc](https://github.com/ekalinin/gi
 
 ## Table of Contents
 
-* [Feedback](#ℹ️-feedback)
-* [Explanation of the Table Column Titles](#ℹ️-explanation-of-the-table-column-titles)
-* [Disclaimer](#⚠️-disclaimer)
+* [ℹ️ Feedback](#ℹ️-feedback)
+* [ℹ️ Explanation of the Table Column Titles](#ℹ️-explanation-of-the-table-column-titles)
+* [⚠️ Disclaimer](#⚠️-disclaimer)
 * [General Privacy Tooling Tips](#general-privacy-tooling-tips)
 * [Privacy Resources](#privacy-resources)
 * [General News / Info](#general-news--info)
