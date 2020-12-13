@@ -93,7 +93,8 @@ Vanessa Otero's chart about news sources | https://twitter.com/vlotero/status/80
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
-Signal | https://signal.org/ | Open source, E2E encryption; desktop, iOS, and Android apps available. Used by Edward Snowden. 
+Signal | https://signal.org/ | Open source, E2E encryption; desktop, iOS, and Android apps available. Used by Edward Snowden.
+Matrix | https://matrix.org/ | Open source, Decentralized, E2E encryption, Multiple Clients; desktop, iOS, and Android apps available. 
 [⚠️ Experimental] Ricochet | https://github.com/ricochet-im/ricochet | Anonymous metadata-resistant instant messaging that just worksbreach"
 
 ### Email
