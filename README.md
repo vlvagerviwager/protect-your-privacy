@@ -86,6 +86,7 @@ The 7 Privacy Tools Essential to Making Snowden Documentary CITIZENFOUR | https:
 Edward Snowden Explains How To Reclaim Your Privacy | https://theintercept.com/2015/11/12/edward-snowden-explains-how-to-reclaim-your-privacy/ |
 OpenSecrets.org | http://www.opensecrets.org/ | "The Center for Responsive Politics is the nation's premier research group tracking money in U.S. politics and its effect on elections and public policy."
 Vanessa Otero's chart about news sources | https://twitter.com/vlotero/status/808696317174288387 |
+The Markup | https://themarkup.org/ | "The Markup is an American nonprofit organization based in New York City, founded in 2018 with the goal of focusing on data-driven journalism, covering the ethics and impact of technology on society." | 2020
 
 ## Tools
 
