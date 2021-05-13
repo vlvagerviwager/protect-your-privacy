@@ -97,7 +97,7 @@ The Markup | https://themarkup.org/ | "The Markup is an American nonprofit organ
 What | Where | Why | Year Added
 --- | --- | --- | ---
 Signal | https://signal.org/ | Open source, E2E encryption; desktop, iOS, and Android apps available. Used by Edward Snowden. 
-[⚠️ Experimental] Ricochet | https://github.com/ricochet-im/ricochet | Anonymous metadata-resistant instant messaging that just worksbreach"
+[⚠️ Experimental] Ricochet | https://github.com/ricochet-im/ricochet | "Ricochet is an experimental kind of instant messaging that doesn't trust anyone with your identity, your contact list, or your communications."
 
 ### Email
 
