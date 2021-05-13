@@ -104,7 +104,7 @@ Signal | https://signal.org/ | Open source, E2E encryption; desktop, iOS, and An
 What | Where | Why | Year Added
 --- | --- | --- | ---
 ProtonMail | https://protonmail.com/ | "Secure email based in Switzerland"
-Tutanota | https://github.com/ricochet-im/ricochet | Open source encrypted mailbox.
+Tutanota | https://tutanota.com/ | Open source encrypted mailbox.
 Lavabit | https://lavabit.com/ | Back up with a limited release as of January 2017.
 
 ### Browser
