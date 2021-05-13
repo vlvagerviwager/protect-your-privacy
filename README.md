@@ -160,6 +160,13 @@ NordVPN | https://nordvpn.com/ | "NordVPN encrypts your internet traffic and hid
 ProtonVPN | https://protonvpn.com/ | By the creators of ProtonMail.
 That One Privacy Site | https://thatoneprivacysite.net/ | Not a VPN, but a VPN comparison resource. | 2020
 
+### Networking (A - Z)
+
+What | Where | Why | Year Added
+--- | --- | --- | ---
+Pi-hole | https://pi-hole.net/ | "Network-wide ad blocking." | 2021
+Quad9 | https://www.quad9.net/ | "An open DNS recursive service for free security and high privacy." | 2021
+
 ## Opinion and Entertainment
 
 ### Opinion Pieces
