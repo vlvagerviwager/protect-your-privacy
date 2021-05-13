@@ -23,6 +23,7 @@ The table of contents is generated using [gh-md-toc](https://github.com/ekalinin
     * [Encryption](#encryption)
     * [Enterprise Privacy Platform](#enterprise-privacy-platform)
     * [VPN (A - Z)](#vpn-a---z)
+    * [Networking (A - Z)](#networking-a---z)
 * [Opinion and Entertainment](#opinion-and-entertainment)
     * [Opinion Pieces](#opinion-pieces)
     * [Comics](#comics)
@@ -75,6 +76,7 @@ Adblocking for Internet Explorer without an extension: Enterprise deployment | h
 How to Keep Your Internet Browser History Private | http://www.teenvogue.com/story/how-to-keep-your-internet-history-private
 Request your consumer score and data from Sift | https://web.archive.org/web/20191104102015/https://www.nytimes.com/2019/11/04/business/secret-consumer-score-access.html
 PrivacyTools | https://www.privacytools.io | "PrivacyTools provides services, tools and knowledge to protect your privacy against global mass surveillance." | 2020
+Block List Project | https://blocklist.site/ | "We have lists to block ads, scams, porn, malware, ransomware & more..." | 2021
 
 ## General News / Info
 
