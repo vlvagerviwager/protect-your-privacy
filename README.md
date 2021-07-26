@@ -2,6 +2,8 @@
 
 Curated privacy resources for the layperson, by a software developer and computer forensics/infosec graduate. Highlights resources, tools, VPNs, search engines, articles, books, and dark patterns.  Originally hosted on Tumblr, migrated to GitHub in 2015 to make it easier for others to contribute.
 
+_Disclaimer:_ I am not affiliated with any of the organisations or products below, except where noted. 
+
 The table of contents is generated using [gh-md-toc](https://github.com/ekalinin/github-markdown-toc).
 
 ## Table of Contents
