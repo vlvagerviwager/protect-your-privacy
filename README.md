@@ -85,6 +85,7 @@ Block List Project | https://blocklist.site/ | "We have lists to block ads, scam
 What | Where | Why | Year Added
 --- | --- | --- | ---
 The Intercept | https://firstlook.org/theintercept/ |
+Tech Worker Handbook | https://techworkerhandbook.org/ | "The Tech Worker Handbook is a collection of resources for tech workers who are looking to make more informed decisions about whether to speak out on issues that are in the public interest. " | 2021
 Enemies of the Internet | https://web.archive.org/web/20171124081709/http://surveillance.rsf.org/en/ |
 The 7 Privacy Tools Essential to Making Snowden Documentary CITIZENFOUR | https://web.archive.org/web/20150929213238/http://www.angrysummit.com/the-7-privacy-tools-essential-to-making-snowden-documentary-citizenfour
 Edward Snowden Explains How To Reclaim Your Privacy | https://theintercept.com/2015/11/12/edward-snowden-explains-how-to-reclaim-your-privacy/ |
