@@ -132,10 +132,11 @@ What | Where | Why | Year Added
 DuckDuckGo | https://duckduckgo.com/ | The search engine that doesn’t track you.
 StartPage | https://startpage.com/ | The privacy of Ixquick combined with search results from Google. 
 
-### Password Manager
+### Password Manager (A - Z)
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
+Bitwarden | https://bitwarden.com/ | Open source password manager. | 2023 
 KeePassX | https://www.keepassx.org/ | Offline password manager.
 
 ### Operating System (OS) (A - Z)
@@ -164,6 +165,11 @@ What | Where | Why | Year Added
 NordVPN | https://nordvpn.com/ | "NordVPN encrypts your internet traffic and hides your IP and physical location. Works on 6 devices at once, on every major platform." | 2020
 ProtonVPN | https://protonvpn.com/ | By the creators of ProtonMail.
 That One Privacy Site | https://thatoneprivacysite.net/ | Not a VPN, but a VPN comparison resource. | 2020
+
+### Notes (A - Z)
+What | Where | Why | Year Added
+--- | --- | --- | ---
+Standard Notes | https://standardnotes.com/ | Standard Notes protects your notes and files with 4x-audited industry-leading end-to-end encryption, meaning only you have access to the keys required to decrypt your information. | 2023
 
 ### Networking (A - Z)
 
