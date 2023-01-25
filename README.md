@@ -117,7 +117,7 @@ What | Where | Why | Year Added
 Tor Browser | https://www.torproject.org/projects/torbrowser.html.en | 
 Brave Browser | https://brave.com/ | "Brave aims to transform the online ad ecosystem with micropayments and a new revenue-sharing solution to give users and publishers a better deal, where fast, safe browsing is the path to a brighter future for the open web."
 
-### Browser Plugin
+### Browser Plugins
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
@@ -138,6 +138,12 @@ What | Where | Why | Year Added
 --- | --- | --- | ---
 Bitwarden | https://bitwarden.com/ | Open source password manager. | 2023 
 KeePassX | https://www.keepassx.org/ | Offline password manager.
+
+### Meeting Software
+
+What | Where | Why | Year Added
+--- | --- | --- | ---
+Jitsi Meet | https://meet.jit.si/ | Free open-source video conferencing software for web & mobile; no account needed.  | 2023 
 
 ### Operating System (OS) (A - Z)
 
