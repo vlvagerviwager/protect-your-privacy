@@ -164,6 +164,12 @@ What | Where | Why | Year Added
 --- | --- | --- | ---
 Silent Circle | https://silentcircle.com/ | Check out their Blackphone.
 
+### Video (A - Z)
+
+What | Where | Why | Year Added
+--- | --- | --- | ---
+Piped | [[https://nordvpn.com/](https://piped.video/)](https://piped.video/) | "The Privacy-friendly YouTube frontend/alternative that's efficient by design" | 2023
+
 ### VPN (A - Z)
 
 What | Where | Why | Year Added
