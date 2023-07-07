@@ -95,6 +95,12 @@ The Markup | https://themarkup.org/ | "The Markup is an American nonprofit organ
 
 ## Tools
 
+### AI
+
+What | Where | Why | Year Added
+--- | --- | --- | ---
+Have I Been Trained? | [https://haveibeentrained.com/](https://haveibeentrained.com/) | Upload an image and check if it's been used to train an AI art model. 
+
 ### IM / Messaging
 
 What | Where | Why | Year Added
