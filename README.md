@@ -164,11 +164,18 @@ What | Where | Why | Year Added
 --- | --- | --- | ---
 PGP | http://philzimmermann.com/EN/findpgp/ | Pretty Good Privacy (PGP) is a data encryption and decryption computer program that provides cryptographic privacy and authentication for data communication.
 
-### Enterprise Privacy Platform
+### Phone
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
-Silent Circle | https://silentcircle.com/ | Check out their Blackphone.
+Murena | https://murena.com/ | "deGoogled and privacy by design smartphones and cloud services." | 2023
+Silent Circle | https://silentcircle.com/ | Check out their Silent Phone.
+
+### Translation
+
+What | Where | Why | Year Added
+--- | --- | --- | ---
+DeepL | https://www.deepl.com/en/translator | An alternative to Google Translate. Based in Europe. | 2023
 
 ### Video (A - Z)
 
@@ -253,6 +260,15 @@ What | Where | Why | Year Added
 --- | --- | --- | ---
 Please Make Google AMP Optional | https://www.alexkras.com/please-make-google-amp-optional/ | "I was reading some articles on Hacker News about how we’ve lost the internet to big companies and how we are not doing anything about it and it got me thinking about Google’s Accelerated Mobile Pages (AMP) again."
 
+### Meta
+
+What | Where | Why | Year Added
+--- | --- | --- | ---
+Revealed: 50 million Facebook profiles harvested for Cambridge Analytica in major data breach | https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election | | 2018
+Get your loved ones off Facebook., by SaintSal | http://saintsal.com/facebook/ | |
+Reasons not to use (i.e., be used by) Facebook, by Richard Stallman | https://stallman.org/facebook.html | |
+Facebook patent application describes spying on users through their webcams | https://www.dailydot.com/debug/facebook-spy-webcam-patent-ads/ | |
+
 ### Windows 10
 
 What | Where | Why | Year Added
@@ -263,11 +279,3 @@ Even when told not to, Windows 10 just can’t stop talking to Microsoft | http:
 Microsoft Releases Updates To Spy On Windows 7, 8 and 8.1 Users | http://arstechnica.com/information-technology/2015/08/even-when-told-not-to-windows-10-just-cant-stop-talking-to-microsoft/ | 
 Microsoft retroactively removes ability of companies to turn off Windows Store in Pro version of Windows 10 | https://support.microsoft.com/en-us/help/3135657/can-t-disable-windows-store-in-windows-10-pro-through-group-policy |
 
-### Facebook
-
-What | Where | Why | Year Added
---- | --- | --- | ---
-Revealed: 50 million Facebook profiles harvested for Cambridge Analytica in major data breach | https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election | | 2018
-Get your loved ones off Facebook., by SaintSal | http://saintsal.com/facebook/ | |
-Reasons not to use (i.e., be used by) Facebook, by Richard Stallman | https://stallman.org/facebook.html | |
-Facebook patent application describes spying on users through their webcams | https://www.dailydot.com/debug/facebook-spy-webcam-patent-ads/ | |
