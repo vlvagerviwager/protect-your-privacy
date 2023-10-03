@@ -21,7 +21,8 @@ The table of contents is generated using [gh-md-toc](https://github.com/ekalinin
     * [Password Manager](#password-manager)
     * [Operating System (OS) (A - Z)](#operating-system-os-a---z)
     * [Encryption](#encryption)
-    * [Enterprise Privacy Platform](#enterprise-privacy-platform)
+    * [Phone](#phone)
+    * [Translation](#translation)
     * [VPN (A - Z)](#vpn-a---z)
     * [Networking (A - Z)](#networking-a---z)
 * [Opinion and Entertainment](#opinion-and-entertainment)
@@ -32,9 +33,9 @@ The table of contents is generated using [gh-md-toc](https://github.com/ekalinin
 * [Donate (A - Z)](#donate-a---z)
 * [Dark Patterns](#dark-patterns)
     * [Google](#google)
+    * [Meta](#meta)
     * [Windows 10](#windows-10)
-    * [Facebook](#facebook)
-
+    
 ## ℹ️ Feedback
 
 Feedback, [issues](https://github.com/vlvagerviwager/protect-your-privacy/issues/new), and [pull requests](https://github.com/vlvagerviwager/protect-your-privacy/pulls) welcome.
