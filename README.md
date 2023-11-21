@@ -25,6 +25,7 @@ The table of contents is generated using [gh-md-toc](https://github.com/ekalinin
     * [Translation](#translation)
     * [VPN (A - Z)](#vpn-a---z)
     * [Networking (A - Z)](#networking-a---z)
+    * [Disinformation (A - Z)](#disinformation-a---z)
 * [Opinion and Entertainment](#opinion-and-entertainment)
     * [Opinion Pieces](#opinion-pieces)
     * [Comics](#comics)
@@ -203,6 +204,12 @@ What | Where | Why | Year Added
 --- | --- | --- | ---
 Pi-hole | https://pi-hole.net/ | "Network-wide ad blocking." | 2021
 Quad9 | https://www.quad9.net/ | "An open DNS recursive service for free security and high privacy." | 2021
+
+### Disinformation (A - Z)
+
+What | Where | Why | Year Added
+--- | --- | --- | ---
+DISARM Disinformation TTP (Tactics, Techniques and Procedures) Framework | [https://pi-hole.net/](https://github.com/DISARMFoundation/DISARMframeworks) | "DISARM is a framework designed for describing and understanding disinformation incidents. DISARM is part of work on adapting information security (infosec) practices to help track and counter disinformation and other information harms, and is designed to fit existing infosec practices and tools." | 2023
 
 ## Opinion and Entertainment
 
