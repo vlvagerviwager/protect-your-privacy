@@ -183,7 +183,9 @@ DeepL | https://www.deepl.com/en/translator | An alternative to Google Translate
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
-Piped | [[https://nordvpn.com/](https://piped.video/)](https://piped.video/) | "The Privacy-friendly YouTube frontend/alternative that's efficient by design" | 2023
+
+FreeTube | https://freetubeapp.io/ | "FreeTube is a YouTube client for Windows, Mac, and Linux built around using YouTube more privately." | 2024
+Invidious | https://invidious.poast.org/ | "An open source alternative front-end to YouTube" | 2024
 
 ### VPN (A - Z)
 
