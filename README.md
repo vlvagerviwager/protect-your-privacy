@@ -1,6 +1,10 @@
 # Protect Your Privacy
 
-Curated privacy resources for the layperson, by a software developer and computer forensics/infosec graduate. Highlights resources, tools, VPNs, search engines, articles, books, and dark patterns.  Originally hosted on Tumblr, migrated to GitHub in 2015 to make it easier for others to contribute.
+Curated privacy resources for the layperson, by a software developer and computer forensics/infosec grad. 
+
+Highlights resources, tools, VPNs, search engines, articles, books, and dark patterns.  
+
+Originally hosted on Tumblr and migrated to GitHub in 2015 to make it easier for others to contribute.
 
 ## Table of Contents
 
@@ -84,7 +88,7 @@ Adblocking for Internet Explorer without an extension: Enterprise deployment | h
 How to Keep Your Internet Browser History Private | http://www.teenvogue.com/story/how-to-keep-your-internet-history-private
 Request your consumer score and data from Sift | https://web.archive.org/web/20191104102015/https://www.nytimes.com/2019/11/04/business/secret-consumer-score-access.html
 PrivacyTools | https://www.privacytools.io | "PrivacyTools provides services, tools and knowledge to protect your privacy against global mass surveillance." | 2020
-Block List Project | https://blocklist.site/ | "We have lists to block ads, scams, porn, malware, ransomware & more..." | 2021
+Block List Project | https://github.com/blocklistproject/Lists | "We have lists to block ads, scams, porn, malware, ransomware & more..." | 2021
 
 ## General News / Info
 
