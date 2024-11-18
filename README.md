@@ -74,33 +74,33 @@ I am not affiliated with any of the organisations or products below, except wher
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
-have i been pwned? | https://haveibeenpwned.com/ | "Check if you have an account that has been compromised in a data breach"
-How to Make a Clean Break With the Clingiest Social Networks | https://www.wired.com/story/how-to-delete-your-facebook-instagram-twitter-snapchat/ | 
-Decent Security | http://decentsecurity.com/ | Start somewhere. Start here.
-The Not-Crazy Person’s Guide to Online Privacy | www.bloomberg.com/news/articles/2016-07-20/the-not-crazy-person-s-guide-to-online-privacy | 
-Crypto Projects that Might not Suck | https://github.com/sweis/crypto-might-not-suck/blob/master/README.md | 
-DeleteMe | https://www.abine.com/deleteme/landing.php | Opt out of most people search/public background check sites (@SwiftOnSecurity).
-Beefing up Privacy | https://web.archive.org/web/20170809120204/https://hackernoon.com/beefing-up-privacy-7a749befea32 | Why and how I’ve become more concerned about my privacy.
-Mac user? Tips and tools to help you protect your data and communications. | https://ssd.eff.org/en/playlist/mac-user |
-Famed Hacker Kevin Mitnick Shows You How to Go Invisible Online | https://www.wired.com/2017/02/famed-hacker-kevin-mitnick-shows-go-invisible-online |
-Kids need to reclaim their data and security… especially at school | https://techcrunch.com/2016/09/21/kids-need-to-reclaim-their-data-and-security-especially-at-school/ |
-Adblocking for Internet Explorer without an extension: Enterprise deployment | https://decentsecurity.com/adblocking-for-internet-explorer-deployment/ | Block ads in IE at your company.
-How to Keep Your Internet Browser History Private | http://www.teenvogue.com/story/how-to-keep-your-internet-history-private
-Request your consumer score and data from Sift | https://web.archive.org/web/20191104102015/https://www.nytimes.com/2019/11/04/business/secret-consumer-score-access.html
+have i been pwned? | https://haveibeenpwned.com/ | "Check if you have an account that has been compromised in a data breach" | 2017
+How to Make a Clean Break With the Clingiest Social Networks | https://www.wired.com/story/how-to-delete-your-facebook-instagram-twitter-snapchat/ | | 2018
+Decent Security | http://decentsecurity.com/ | Start somewhere. Start here. | 2017
+The Not-Crazy Person’s Guide to Online Privacy | www.bloomberg.com/news/articles/2016-07-20/the-not-crazy-person-s-guide-to-online-privacy | | 2017
+Crypto Projects that Might not Suck | https://github.com/sweis/crypto-might-not-suck/blob/master/README.md | | 2017
+DeleteMe | https://www.abine.com/deleteme/landing.php | Opt out of most people search/public background check sites (@SwiftOnSecurity). | 2017
+Beefing up Privacy | https://web.archive.org/web/20170809120204/https://hackernoon.com/beefing-up-privacy-7a749befea32 | Why and how I’ve become more concerned about my privacy. | 2020
+Mac user? Tips and tools to help you protect your data and communications. | https://ssd.eff.org/en/playlist/mac-user | | 2017
+Famed Hacker Kevin Mitnick Shows You How to Go Invisible Online | https://www.wired.com/2017/02/famed-hacker-kevin-mitnick-shows-go-invisible-online | | 2017
+Kids need to reclaim their data and security… especially at school | https://techcrunch.com/2016/09/21/kids-need-to-reclaim-their-data-and-security-especially-at-school/ | | 2017
+Adblocking for Internet Explorer without an extension: Enterprise deployment | https://decentsecurity.com/adblocking-for-internet-explorer-deployment/ | Block ads in IE at your company. | 2017
+How to Keep Your Internet Browser History Private | http://www.teenvogue.com/story/how-to-keep-your-internet-history-private | | 2017
+Request your consumer score and data from Sift | https://web.archive.org/web/20191104102015/https://www.nytimes.com/2019/11/04/business/secret-consumer-score-access.html | | 2020
 PrivacyTools | https://www.privacytools.io | "PrivacyTools provides services, tools and knowledge to protect your privacy against global mass surveillance." | 2020
-Block List Project | https://github.com/blocklistproject/Lists | "We have lists to block ads, scams, porn, malware, ransomware & more..." | 2021
+Block List Project | https://github.com/blocklistproject/Lists | "We have lists to block ads, scams, porn, malware, ransomware & more..." | 2024
 
 ## General News / Info
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
-The Intercept | https://firstlook.org/theintercept/ |
+The Intercept | https://firstlook.org/theintercept/ | | 2017
 Tech Worker Handbook | https://techworkerhandbook.org/ | "The Tech Worker Handbook is a collection of resources for tech workers who are looking to make more informed decisions about whether to speak out on issues that are in the public interest. " | 2021
-Enemies of the Internet | https://web.archive.org/web/20171124081709/http://surveillance.rsf.org/en/ |
-The 7 Privacy Tools Essential to Making Snowden Documentary CITIZENFOUR | https://web.archive.org/web/20150929213238/http://www.angrysummit.com/the-7-privacy-tools-essential-to-making-snowden-documentary-citizenfour
-Edward Snowden Explains How To Reclaim Your Privacy | https://theintercept.com/2015/11/12/edward-snowden-explains-how-to-reclaim-your-privacy/ |
-OpenSecrets.org | http://www.opensecrets.org/ | "The Center for Responsive Politics is the nation's premier research group tracking money in U.S. politics and its effect on elections and public policy."
-Vanessa Otero's chart about news sources | https://twitter.com/vlotero/status/808696317174288387 |
+Enemies of the Internet | https://web.archive.org/web/20171124081709/http://surveillance.rsf.org/en/ | | 2020
+The 7 Privacy Tools Essential to Making Snowden Documentary CITIZENFOUR | https://web.archive.org/web/20150929213238/http://www.angrysummit.com/the-7-privacy-tools-essential-to-making-snowden-documentary-citizenfour | | 2020
+Edward Snowden Explains How To Reclaim Your Privacy | https://theintercept.com/2015/11/12/edward-snowden-explains-how-to-reclaim-your-privacy/ | | 2017
+OpenSecrets.org | http://www.opensecrets.org/ | "The Center for Responsive Politics is the nation's premier research group tracking money in U.S. politics and its effect on elections and public policy." | 2017
+Vanessa Otero's chart about news sources | https://twitter.com/vlotero/status/808696317174288387 | | 2017
 The Markup | https://themarkup.org/ | "The Markup is an American nonprofit organization based in New York City, founded in 2018 with the goal of focusing on data-driven journalism, covering the ethics and impact of technology on society." | 2020
 
 ## Tools
@@ -110,52 +110,52 @@ The Markup | https://themarkup.org/ | "The Markup is an American nonprofit organ
 What | Where | Why | Year Added
 --- | --- | --- | ---
 Glaze | [https://glaze.cs.uchicago.edu/what-is-glaze.html](https://glaze.cs.uchicago.edu/what-is-glaze.html) | "Glaze is a system designed to protect human artists by disrupting style mimicry." | 2024
-Have I Been Trained? | [https://haveibeentrained.com/](https://haveibeentrained.com/) | Upload an image and check if it's been used to train an AI art model. 
+Have I Been Trained? | [https://haveibeentrained.com/](https://haveibeentrained.com/) | Upload an image and check if it's been used to train an AI art model. | 2023
 Nightshade | [https://nightshade.cs.uchicago.edu/whatis.html](https://nightshade.cs.uchicago.edu/whatis.html) | "Nightshade works similarly as Glaze, but instead of a defense against style mimicry, it is designed as an offense tool to distort feature representations inside generative AI image models." | 2024
 
 ### IM / Messaging
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
-Signal | https://signal.org/ | Open source, E2E encryption; desktop, iOS, and Android apps available. Used by Edward Snowden. 
-[⚠️ Experimental] Ricochet | https://github.com/ricochet-im/ricochet | "Ricochet is an experimental kind of instant messaging that doesn't trust anyone with your identity, your contact list, or your communications."
+Signal | https://signal.org/ | Open source, E2E encryption; desktop, iOS, and Android apps available. Used by Edward Snowden. | 2020
+[⚠️ Experimental] Ricochet | https://github.com/ricochet-im/ricochet | "Ricochet is an experimental kind of instant messaging that doesn't trust anyone with your identity, your contact list, or your communications." | 2021
 
 ### Email
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
-ProtonMail | https://protonmail.com/ | "Secure email based in Switzerland"
-Tutanota | https://tutanota.com/ | Open source encrypted mailbox.
-Lavabit | https://lavabit.com/ | Back up with a limited release as of January 2017.
+ProtonMail | https://protonmail.com/ | "Secure email based in Switzerland" | 2017
+Tutanota | https://tutanota.com/ | Open source encrypted mailbox. | 2021
+Lavabit | https://lavabit.com/ | Back up with a limited release as of January 2017. | 2017
 
 ### Browser
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
-Tor Browser | https://www.torproject.org/projects/torbrowser.html.en | 
-Brave Browser | https://brave.com/ | "Brave aims to transform the online ad ecosystem with micropayments and a new revenue-sharing solution to give users and publishers a better deal, where fast, safe browsing is the path to a brighter future for the open web."
+Tor Browser | https://www.torproject.org/projects/torbrowser.html.en | 2017 
+Brave Browser | https://brave.com/ | "Brave aims to transform the online ad ecosystem with micropayments and a new revenue-sharing solution to give users and publishers a better deal, where fast, safe browsing is the path to a brighter future for the open web." | 2017
 
 ### Browser Plugins
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
-HTTPS Everywhere | https://www.eff.org/https-everywhere | "HTTPS Everywhere is a Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure."
-Privacy Badger | https://www.eff.org/privacybadger | Blocks spying ads and invisible trackers; open source, created by the EFF. Focuses on privacy instead of solely ad-blocking.
-uBlock Origin (**not** "uBlock") | https://github.com/gorhill/uBlock | Free and open source ad-blocker.
+HTTPS Everywhere | https://www.eff.org/https-everywhere | "HTTPS Everywhere is a Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure." | 2017
+Privacy Badger | https://www.eff.org/privacybadger | Blocks spying ads and invisible trackers; open source, created by the EFF. Focuses on privacy instead of solely ad-blocking. | 2017
+uBlock Origin (**not** "uBlock") | https://github.com/gorhill/uBlock | Free and open source ad-blocker. | 2019
 
 ### Search Engine (A - Z)
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
-DuckDuckGo | https://duckduckgo.com/ | The search engine that doesn’t track you.
-StartPage | https://startpage.com/ | The privacy of Ixquick combined with search results from Google. 
+DuckDuckGo | https://duckduckgo.com/ | The search engine that doesn’t track you. | 2017
+StartPage | https://startpage.com/ | The privacy of Ixquick combined with search results from Google. | 2020
 
 ### Password Manager (A - Z)
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
 Bitwarden | https://bitwarden.com/ | Open source password manager. | 2023 
-KeePassX | https://www.keepassx.org/ | Offline password manager.
+KeePassX | https://www.keepassx.org/ | Offline password manager. | 2019
 
 ### Meeting Software
 
@@ -167,21 +167,21 @@ Jitsi Meet | https://meet.jit.si/ | Free open-source video conferencing software
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
-Tails OS | https://tails.boum.org/ | Portable amnesiac live operating system, aimed at protecting privacy; used by Edward Snowden.
-Qubes OS | https://www.qubes-os.org/ | Uses Security by Compartmentalization approach.
+Tails OS | https://tails.boum.org/ | Portable amnesiac live operating system, aimed at protecting privacy; used by Edward Snowden. | 2017
+Qubes OS | https://www.qubes-os.org/ | Uses Security by Compartmentalization approach. | 2017
 
 ### Encryption
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
-PGP | http://philzimmermann.com/EN/findpgp/ | Pretty Good Privacy (PGP) is a data encryption and decryption computer program that provides cryptographic privacy and authentication for data communication.
+PGP | http://philzimmermann.com/EN/findpgp/ | Pretty Good Privacy (PGP) is a data encryption and decryption computer program that provides cryptographic privacy and authentication for data communication. | 2017
 
 ### Phone
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
 Murena | https://murena.com/ | "deGoogled and privacy by design smartphones and cloud services." | 2023
-Silent Circle | https://silentcircle.com/ | Check out their Silent Phone.
+Silent Circle | https://silentcircle.com/ | Check out their Silent Phone. | 2023
 
 ### Translation
 
@@ -201,7 +201,7 @@ Invidious | https://invidious.poast.org/ | "An open source alternative front-end
 What | Where | Why | Year Added
 --- | --- | --- | ---
 NordVPN | https://nordvpn.com/ | "NordVPN encrypts your internet traffic and hides your IP and physical location. Works on 6 devices at once, on every major platform." | 2020
-ProtonVPN | https://protonvpn.com/ | By the creators of ProtonMail.
+ProtonVPN | https://protonvpn.com/ | By the creators of ProtonMail. | 2017
 That One Privacy Site | https://thatoneprivacysite.net/ | Not a VPN, but a VPN comparison resource. | 2020
 
 ### Notes (A - Z)
@@ -244,32 +244,32 @@ On WikiLeaks, Journalism, and Privacy: Reporting on the Podesta Archive Is an Ea
 
 What | Where | Year Added
 --- | --- | --- | 
-Into the Abyss: The NSA’s Global Internet Surveillance | https://www.aclu.org/infographic/abyss-nsas-global-internet-surveillance |
+Into the Abyss: The NSA’s Global Internet Surveillance | https://www.aclu.org/infographic/abyss-nsas-global-internet-surveillance | 2017
 
 ### Movies (A - Z)
 
 What | Where | Genre | Year Added
 --- | --- | --- | ---
-Ai Weiwei: Never Sorry | http://www.aiweiweineversorry.com/ | Documentary
+Ai Weiwei: Never Sorry | http://www.aiweiweineversorry.com/ | Documentary | 2017
 CITIZENFOUR | https://citizenfourfilm.com/ | Documentary | 2014
 
 ### Books (A - Z)
 
 What | Author | Where | Year Added
 --- | --- | --- | ---
-American Spies: Modern Surveillance, Why You Should Care, and What to Do About It | Jennifer Granick | 
+American Spies: Modern Surveillance, Why You Should Care, and What to Do About It | Jennifer Granick | | 2020
 Astro Noise: A Survival Guide to Living Under Total Surveillance | Laura Poitras | | 2020
-Beyond Fear: Thinking Sensibly about Security in an Uncertain World | Bruce Schneier | https://www.schneier.com/books/beyond_fear/
-Permanent Record | Edward Snowden | 
-The Cuckoo's Egg | Cliff Stoll |
-The Smart Girl's Guide to Privacy | Violet Blue | https://www.nostarch.com/smartgirlsguide
+Beyond Fear: Thinking Sensibly about Security in an Uncertain World | Bruce Schneier | https://www.schneier.com/books/beyond_fear/ | 2020
+Permanent Record | Edward Snowden | | 2019
+The Cuckoo's Egg | Cliff Stoll | | 2017
+The Smart Girl's Guide to Privacy | Violet Blue | https://www.nostarch.com/smartgirlsguide | 2017
 
 ## Donate (A - Z)
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
-American Civil Liberties Union (ACLU) | https://action.aclu.org/secure/donate-to-aclu | [ACLU Accomplishments](https://www.aclu.org/aclu-accomplishments), [The Successes of the American Civil Liberties Union](https://www.aclu.org/successes-american-civil-liberties-union) |
-Electronic Frontier Foundation (EFF) | https://supporters.eff.org/donate/fcc-privacy-rules-s | [Timeline of Electronic Frontier Foundation actions (Wikipedia)](https://en.wikipedia.org/wiki/Timeline_of_Electronic_Frontier_Foundation_actions)
+American Civil Liberties Union (ACLU) | https://action.aclu.org/secure/donate-to-aclu | [ACLU Accomplishments](https://www.aclu.org/aclu-accomplishments), [The Successes of the American Civil Liberties Union](https://www.aclu.org/successes-american-civil-liberties-union) | 2020
+Electronic Frontier Foundation (EFF) | https://supporters.eff.org/donate/fcc-privacy-rules-s | [Timeline of Electronic Frontier Foundation actions (Wikipedia)](https://en.wikipedia.org/wiki/Timeline_of_Electronic_Frontier_Foundation_actions) | 2020
 
 ## Dark Patterns
  
@@ -277,7 +277,7 @@ Electronic Frontier Foundation (EFF) | https://supporters.eff.org/donate/fcc-pri
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
-Please Make Google AMP Optional | https://www.alexkras.com/please-make-google-amp-optional/ | "I was reading some articles on Hacker News about how we’ve lost the internet to big companies and how we are not doing anything about it and it got me thinking about Google’s Accelerated Mobile Pages (AMP) again."
+Please Make Google AMP Optional | https://www.alexkras.com/please-make-google-amp-optional/ | "I was reading some articles on Hacker News about how we’ve lost the internet to big companies and how we are not doing anything about it and it got me thinking about Google’s Accelerated Mobile Pages (AMP) again." | 2017
 
 ### Meta
 
@@ -292,9 +292,9 @@ Facebook patent application describes spying on users through their webcams | ht
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
-WindowsLies / BlockWindows | https://github.com/WindowsLies/BlockWindows | "Stop Windows 10 Nagging and Spying. Works with Win7-10"
-Windows 10 Is Spying On You: Here’s How To Stop It | http://www.rockpapershotgun.com/2015/07/30/windows-10-privacy-settings/ | 
-Even when told not to, Windows 10 just can’t stop talking to Microsoft | http://arstechnica.com/information-technology/2015/08/even-when-told-not-to-windows-10-just-cant-stop-talking-to-microsoft/ | 
-Microsoft Releases Updates To Spy On Windows 7, 8 and 8.1 Users | http://arstechnica.com/information-technology/2015/08/even-when-told-not-to-windows-10-just-cant-stop-talking-to-microsoft/ | 
-Microsoft retroactively removes ability of companies to turn off Windows Store in Pro version of Windows 10 | https://support.microsoft.com/en-us/help/3135657/can-t-disable-windows-store-in-windows-10-pro-through-group-policy |
+WindowsLies / BlockWindows | https://github.com/WindowsLies/BlockWindows | "Stop Windows 10 Nagging and Spying. Works with Win7-10" | 2017
+Windows 10 Is Spying On You: Here’s How To Stop It | http://www.rockpapershotgun.com/2015/07/30/windows-10-privacy-settings/ | | 2017
+Even when told not to, Windows 10 just can’t stop talking to Microsoft | http://arstechnica.com/information-technology/2015/08/even-when-told-not-to-windows-10-just-cant-stop-talking-to-microsoft/ | | 2017
+Microsoft Releases Updates To Spy On Windows 7, 8 and 8.1 Users | http://arstechnica.com/information-technology/2015/08/even-when-told-not-to-windows-10-just-cant-stop-talking-to-microsoft/ | | 2017
+Microsoft retroactively removes ability of companies to turn off Windows Store in Pro version of Windows 10 | https://support.microsoft.com/en-us/help/3135657/can-t-disable-windows-store-in-windows-10-pro-through-group-policy | | 2017
 
