@@ -132,7 +132,7 @@ Lavabit | https://lavabit.com/ | Back up with a limited release as of January 20
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
-Tor Browser | https://www.torproject.org/projects/torbrowser.html.en | 2017 
+Tor Browser | https://www.torproject.org/projects/torbrowser.html.en | | 2017 
 Brave Browser | https://brave.com/ | "Brave aims to transform the online ad ecosystem with micropayments and a new revenue-sharing solution to give users and publishers a better deal, where fast, safe browsing is the path to a brighter future for the open web." | 2017
 
 ### Browser Plugins
