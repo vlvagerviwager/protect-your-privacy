@@ -109,9 +109,9 @@ The Markup | https://themarkup.org/ | "The Markup is an American nonprofit organ
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
-Glaze | [https://glaze.cs.uchicago.edu/what-is-glaze.html](https://glaze.cs.uchicago.edu/what-is-glaze.html) | "Glaze is a system designed to protect human artists by disrupting style mimicry."
+Glaze | [https://glaze.cs.uchicago.edu/what-is-glaze.html](https://glaze.cs.uchicago.edu/what-is-glaze.html) | "Glaze is a system designed to protect human artists by disrupting style mimicry." | 2024
 Have I Been Trained? | [https://haveibeentrained.com/](https://haveibeentrained.com/) | Upload an image and check if it's been used to train an AI art model. 
-Nightshade | [https://nightshade.cs.uchicago.edu/whatis.html](https://nightshade.cs.uchicago.edu/whatis.html) | "Nightshade works similarly as Glaze, but instead of a defense against style mimicry, it is designed as an offense tool to distort feature representations inside generative AI image models."
+Nightshade | [https://nightshade.cs.uchicago.edu/whatis.html](https://nightshade.cs.uchicago.edu/whatis.html) | "Nightshade works similarly as Glaze, but instead of a defense against style mimicry, it is designed as an offense tool to distort feature representations inside generative AI image models." | 2024
 
 ### IM / Messaging
 
