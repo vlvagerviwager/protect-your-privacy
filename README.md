@@ -105,6 +105,13 @@ The Markup | https://themarkup.org/ | "The Markup is an American nonprofit organ
 
 ## Tools
 
+### AI 
+
+What | Where | Why | Year Added
+--- | --- | --- | ---
+Lumo | [https://lumo.proton.me/](https://lumo.proton.me/) | "Privacy-first AI assistant[..]" | 2025
+
+
 ### Anti-AI defenses
 
 What | Where | Why | Year Added
@@ -132,8 +139,9 @@ Lavabit | https://lavabit.com/ | Back up with a limited release as of January 20
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
-Tor Browser | https://www.torproject.org/projects/torbrowser.html.en | | 2017 
 Brave Browser | https://brave.com/ | "Brave aims to transform the online ad ecosystem with micropayments and a new revenue-sharing solution to give users and publishers a better deal, where fast, safe browsing is the path to a brighter future for the open web." | 2017
+Mullvad Browser | https://mullvad.net/en/browser | | 2025
+Tor Browser | https://www.torproject.org/projects/torbrowser.html.en | | 2017 
 
 ### Browser Plugins
 
@@ -201,6 +209,7 @@ Invidious | https://invidious.poast.org/ | "An open source alternative front-end
 What | Where | Why | Year Added
 --- | --- | --- | ---
 NordVPN | https://nordvpn.com/ | "NordVPN encrypts your internet traffic and hides your IP and physical location. Works on 6 devices at once, on every major platform." | 2020
+Mullvad VPN | https://mullvad.net/en/vpn | Anonymous account, no logging, etc. | 2025
 ProtonVPN | https://protonvpn.com/ | By the creators of ProtonMail. | 2017
 That One Privacy Site | https://thatoneprivacysite.net/ | Not a VPN, but a VPN comparison resource. | 2020
 
