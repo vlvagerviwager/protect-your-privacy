@@ -1,6 +1,6 @@
 # Protect Your Privacy
 
-Curated privacy resources for the layperson, by a software developer and computer forensics/infosec grad. 
+Curated privacy resources for the layperson.
 
 Highlights resources, tools, VPNs, search engines, articles, books, and dark patterns.  
 
@@ -148,6 +148,7 @@ Tor Browser | https://www.torproject.org/projects/torbrowser.html.en | | 2017
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
+CanvasBlocker | https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/ | "This add-on allows users to prevent websites from using some Javascript APIs to fingerprint them. Users can choose to block the APIs entirely on some or all websites (which may break some websites) or fake its fingerprinting-friendly readout API." | 2026
 HTTPS Everywhere | https://www.eff.org/https-everywhere | "HTTPS Everywhere is a Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure." | 2017
 Privacy Badger | https://www.eff.org/privacybadger | Blocks spying ads and invisible trackers; open source, created by the EFF. Focuses on privacy instead of solely ad-blocking. | 2017
 uBlock Origin (**not** "uBlock") | https://github.com/gorhill/uBlock | Free and open source ad-blocker. | 2019
