@@ -218,6 +218,7 @@ That One Privacy Site | https://thatoneprivacysite.net/ | Not a VPN, but a VPN c
 ### Notes (A - Z)
 What | Where | Why | Year Added
 --- | --- | --- | ---
+qnote | https://github.com/Omibranch/qnote | Minimal open-source desktop notepad. Local-only storage with no cloud sync, no account, no telemetry. Markdown live preview, version history, OCR. Available on AUR. | 2026
 Standard Notes | https://standardnotes.com/ | Standard Notes protects your notes and files with 4x-audited industry-leading end-to-end encryption, meaning only you have access to the keys required to decrypt your information. | 2023
 
 ### Networking (A - Z)
