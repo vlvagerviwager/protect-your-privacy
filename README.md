@@ -271,7 +271,9 @@ What | Author | Where | Year Added
 American Spies: Modern Surveillance, Why You Should Care, and What to Do About It | Jennifer Granick | | 2020
 Astro Noise: A Survival Guide to Living Under Total Surveillance | Laura Poitras | | 2020
 Beyond Fear: Thinking Sensibly about Security in an Uncertain World | Bruce Schneier | https://www.schneier.com/books/beyond_fear/ | 2020
+How to Disappear and Live Off the Grid: A CIA Insider's Guide | John Kiriakou | | 2026 
 Permanent Record | Edward Snowden | | 2019
+Surveillance and Surveillance Detection: A CIA Insider's Guide | John Kiriakou | | 2026
 The Cuckoo's Egg | Cliff Stoll | | 2017
 The Smart Girl's Guide to Privacy | Violet Blue | https://www.nostarch.com/smartgirlsguide | 2017
 
