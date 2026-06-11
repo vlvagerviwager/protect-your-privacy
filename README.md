@@ -184,7 +184,13 @@ Qubes OS | https://www.qubes-os.org/ | Uses Security by Compartmentalization app
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
-PGP | http://philzimmermann.com/EN/findpgp/ | Pretty Good Privacy (PGP) is a data encryption and decryption computer program that provides cryptographic privacy and authentication for data communication. | 2017
+| PGP | http://philzimmermann.com/EN/findpgp/ | Pretty Good Privacy (PGP) is a data encryption and decryption computer program that provides cryptographic privacy and authentication for data communication. | 2017 |
+
+### PDF / Document Tools
+
+What | Where | Why | Year Added
+--- | --- | --- | ---
+PDF Toolbox | [pdftoolbox-three.vercel.app](https://pdftoolbox-three.vercel.app) | Free browser-based PDF tools (compress, merge, split, convert, OCR, unlock). All processing is client-side — files never leave your computer. No accounts, no tracking. | 2026
 
 ### Phone
 
