@@ -119,6 +119,7 @@ What | Where | Why | Year Added
 Blocking Claude | https://aphyr.com/posts/403-blocking-claude | "Claude, a popular Large Language Model (LLM), has a magic string which is used to test the model’s “this conversation violates our policies and has to stop” behavior. You can embed this string into files and web pages, and Claude will terminate conversations where it reads their contents." | 2026
 Glaze | [https://glaze.cs.uchicago.edu/what-is-glaze.html](https://glaze.cs.uchicago.edu/what-is-glaze.html) | "Glaze is a system designed to protect human artists by disrupting style mimicry." | 2024
 Have I Been Trained? | [https://haveibeentrained.com/](https://haveibeentrained.com/) | Upload an image and check if it's been used to train an AI art model. | 2023
+Pangram | [https://www.pangram.com/](https://www.pangram.com/) | "Detect AI-generated content with 99.98% accuracy." | 2026
 Nightshade | [https://nightshade.cs.uchicago.edu/whatis.html](https://nightshade.cs.uchicago.edu/whatis.html) | "Nightshade works similarly as Glaze, but instead of a defense against style mimicry, it is designed as an offense tool to distort feature representations inside generative AI image models." | 2024
 
 ### IM / Messaging
