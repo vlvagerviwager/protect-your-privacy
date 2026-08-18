@@ -142,7 +142,8 @@ Lavabit | https://lavabit.com/ | Back up with a limited release as of January 20
 What | Where | Why | Year Added
 --- | --- | --- | ---
 Brave Browser | https://brave.com/ | "Brave aims to transform the online ad ecosystem with micropayments and a new revenue-sharing solution to give users and publishers a better deal, where fast, safe browsing is the path to a brighter future for the open web." | 2017
-Mullvad Browser | https://mullvad.net/en/browser | | 2025
+Mullvad Browser | https://mullvad.net/en/browser | "a browser designed to minimize tracking and fingerprints" | 2025
+Orion | https://orionbrowser.com/ | "Native WebKit speed, compatibility with a wide selection of extensions, and absolute privacy[..]" | 2026
 Tor Browser | https://www.torproject.org/projects/torbrowser.html.en | | 2017 
 
 ### Browser Plugins
@@ -159,6 +160,7 @@ uBlock Origin (**not** "uBlock") | https://github.com/gorhill/uBlock | Free and 
 What | Where | Why | Year Added
 --- | --- | --- | ---
 DuckDuckGo | https://duckduckgo.com/ | The search engine that doesn’t track you. | 2017
+Kagi | https://kagi.com/ | "Search without ads, block invasive trackers, and enjoy a noise-free internet on your own terms." | 2026
 StartPage | https://startpage.com/ | The privacy of Ixquick combined with search results from Google. | 2020
 
 ### Password Manager (A - Z)
