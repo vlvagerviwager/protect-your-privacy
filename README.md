@@ -15,28 +15,31 @@ Originally hosted on Tumblr and migrated to GitHub in 2015 to make it easier for
    * [Privacy Resources](#privacy-resources)
    * [General News / Info](#general-news--info)
    * [Tools](#tools)
+      * [AI](#ai)
       * [Anti-AI defenses](#anti-ai-defenses)
-      * [IM / Messaging](#im--messaging)
-      * [Email](#email)
       * [Browser](#browser)
       * [Browser Plugins](#browser-plugins)
-      * [Search Engine (A - Z)](#search-engine-a---z)
-      * [Password Manager (A - Z)](#password-manager-a---z)
-      * [Meeting Software](#meeting-software)
-      * [Operating System (OS) (A - Z)](#operating-system-os-a---z)
+      * [Disinformation (A - Z)](#disinformation-a---z)
+      * [Email](#email)
       * [Encryption](#encryption)
-      * [Phone](#phone)
+      * [IM / Messaging](#im--messaging)
+      * [Meeting Software](#meeting-software)
+      * [Networking (A - Z)](#networking-a---z)
+      * [Notes (A - Z)](#notes-a---z)
+      * [Operating System (OS) (A - Z)](#operating-system-os-a---z)
+      * [Password Manager (A - Z)](#password-manager-a---z)
+      * [Search Engine (A - Z)](#search-engine-a---z)
       * [Translation](#translation)
       * [Video (A - Z)](#video-a---z)
       * [VPN (A - Z)](#vpn-a---z)
-      * [Notes (A - Z)](#notes-a---z)
-      * [Networking (A - Z)](#networking-a---z)
-      * [Disinformation (A - Z)](#disinformation-a---z)
+   * [Devices](#devices)
+      * [Anti-surveillance glasses](#anti-surveillance-glasses)
+      * [Phone](#phone)
    * [Opinion and Entertainment](#opinion-and-entertainment)
-      * [Opinion Pieces](#opinion-pieces)
+      * [Books (A - Z)](#books-a---z)
       * [Comics](#comics)
       * [Movies (A - Z)](#movies-a---z)
-      * [Books (A - Z)](#books-a---z)
+      * [Opinion Pieces](#opinion-pieces)
    * [Donate (A - Z)](#donate-a---z)
    * [Dark Patterns](#dark-patterns)
       * [Google](#google)
@@ -119,23 +122,8 @@ What | Where | Why | Year Added
 Blocking Claude | https://aphyr.com/posts/403-blocking-claude | "Claude, a popular Large Language Model (LLM), has a magic string which is used to test the model’s “this conversation violates our policies and has to stop” behavior. You can embed this string into files and web pages, and Claude will terminate conversations where it reads their contents." | 2026
 Glaze | [https://glaze.cs.uchicago.edu/what-is-glaze.html](https://glaze.cs.uchicago.edu/what-is-glaze.html) | "Glaze is a system designed to protect human artists by disrupting style mimicry." | 2024
 Have I Been Trained? | [https://haveibeentrained.com/](https://haveibeentrained.com/) | Upload an image and check if it's been used to train an AI art model. | 2023
-Pangram | [https://www.pangram.com/](https://www.pangram.com/) | "Detect AI-generated content with 99.98% accuracy." | 2026
 Nightshade | [https://nightshade.cs.uchicago.edu/whatis.html](https://nightshade.cs.uchicago.edu/whatis.html) | "Nightshade works similarly as Glaze, but instead of a defense against style mimicry, it is designed as an offense tool to distort feature representations inside generative AI image models." | 2024
-
-### IM / Messaging
-
-What | Where | Why | Year Added
---- | --- | --- | ---
-Signal | https://signal.org/ | Open source, E2E encryption; desktop, iOS, and Android apps available. Used by Edward Snowden. | 2020
-[⚠️ Experimental] Ricochet | https://github.com/ricochet-im/ricochet | "Ricochet is an experimental kind of instant messaging that doesn't trust anyone with your identity, your contact list, or your communications." | 2021
-
-### Email
-
-What | Where | Why | Year Added
---- | --- | --- | ---
-ProtonMail | https://protonmail.com/ | "Secure email based in Switzerland" | 2017
-Tutanota | https://tutanota.com/ | Open source encrypted mailbox. | 2021
-Lavabit | https://lavabit.com/ | Back up with a limited release as of January 2017. | 2017
+Pangram | [https://www.pangram.com/](https://www.pangram.com/) | "Detect AI-generated content with 99.98% accuracy." | 2026
 
 ### Browser
 
@@ -155,26 +143,50 @@ HTTPS Everywhere | https://www.eff.org/https-everywhere | "HTTPS Everywhere is a
 Privacy Badger | https://www.eff.org/privacybadger | Blocks spying ads and invisible trackers; open source, created by the EFF. Focuses on privacy instead of solely ad-blocking. | 2017
 uBlock Origin (**not** "uBlock") | https://github.com/gorhill/uBlock | Free and open source ad-blocker. | 2019
 
-### Search Engine (A - Z)
+### Disinformation (A - Z)
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
-DuckDuckGo | https://duckduckgo.com/ | The search engine that doesn’t track you. | 2017
-Kagi | https://kagi.com/ | "Search without ads, block invasive trackers, and enjoy a noise-free internet on your own terms." | 2026
-StartPage | https://startpage.com/ | The privacy of Ixquick combined with search results from Google. | 2020
+DISARM Disinformation TTP (Tactics, Techniques and Procedures) Framework | [https://pi-hole.net/](https://github.com/DISARMFoundation/DISARMframeworks) | "DISARM is a framework designed for describing and understanding disinformation incidents. DISARM is part of work on adapting information security (infosec) practices to help track and counter disinformation and other information harms, and is designed to fit existing infosec practices and tools." | 2023
 
-### Password Manager (A - Z)
+### Email
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
-Bitwarden | https://bitwarden.com/ | Open source password manager. | 2023 
-KeePassX | https://www.keepassx.org/ | Offline password manager. | 2019
+ProtonMail | https://protonmail.com/ | "Secure email based in Switzerland" | 2017
+Tutanota | https://tutanota.com/ | Open source encrypted mailbox. | 2021
+Lavabit | https://lavabit.com/ | Back up with a limited release as of January 2017. | 2017
+
+### Encryption
+
+What | Where | Why | Year Added
+--- | --- | --- | ---
+PGP | http://philzimmermann.com/EN/findpgp/ | Pretty Good Privacy (PGP) is a data encryption and decryption computer program that provides cryptographic privacy and authentication for data communication. | 2017
+
+### IM / Messaging
+
+What | Where | Why | Year Added
+--- | --- | --- | ---
+Signal | https://signal.org/ | Open source, E2E encryption; desktop, iOS, and Android apps available. Used by Edward Snowden. | 2020
+[⚠️ Experimental] Ricochet | https://github.com/ricochet-im/ricochet | "Ricochet is an experimental kind of instant messaging that doesn't trust anyone with your identity, your contact list, or your communications." | 2021
 
 ### Meeting Software
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
 Jitsi Meet | https://meet.jit.si/ | Free open-source video conferencing software for web & mobile; no account needed.  | 2023 
+
+### Networking (A - Z)
+
+What | Where | Why | Year Added
+--- | --- | --- | ---
+Pi-hole | https://pi-hole.net/ | "Network-wide ad blocking." | 2021
+Quad9 | https://www.quad9.net/ | "An open DNS recursive service for free security and high privacy." | 2021
+
+### Notes (A - Z)
+What | Where | Why | Year Added
+--- | --- | --- | ---
+Standard Notes | https://standardnotes.com/ | Standard Notes protects your notes and files with 4x-audited industry-leading end-to-end encryption, meaning only you have access to the keys required to decrypt your information. | 2023
 
 ### Operating System (OS) (A - Z)
 
@@ -183,18 +195,20 @@ What | Where | Why | Year Added
 Tails OS | https://tails.boum.org/ | Portable amnesiac live operating system, aimed at protecting privacy; used by Edward Snowden. | 2017
 Qubes OS | https://www.qubes-os.org/ | Uses Security by Compartmentalization approach. | 2017
 
-### Encryption
+### Password Manager (A - Z)
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
-PGP | http://philzimmermann.com/EN/findpgp/ | Pretty Good Privacy (PGP) is a data encryption and decryption computer program that provides cryptographic privacy and authentication for data communication. | 2017
+Bitwarden | https://bitwarden.com/ | Open source password manager. | 2023 
+KeePassX | https://www.keepassx.org/ | Offline password manager. | 2019
 
-### Phone
+### Search Engine (A - Z)
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
-Murena | https://murena.com/ | "deGoogled and privacy by design smartphones and cloud services." | 2023
-Silent Circle | https://silentcircle.com/ | Check out their Silent Phone. | 2023
+DuckDuckGo | https://duckduckgo.com/ | The search engine that doesn’t track you. | 2017
+Kagi | https://kagi.com/ | "Search without ads, block invasive trackers, and enjoy a noise-free internet on your own terms." | 2026
+StartPage | https://startpage.com/ | The privacy of Ixquick combined with search results from Google. | 2020
 
 ### Translation
 
@@ -218,25 +232,49 @@ Mullvad VPN | https://mullvad.net/en/vpn | Anonymous account, no logging, etc. |
 ProtonVPN | https://protonvpn.com/ | By the creators of ProtonMail. | 2017
 That One Privacy Site | https://thatoneprivacysite.net/ | Not a VPN, but a VPN comparison resource. | 2020
 
-### Notes (A - Z)
-What | Where | Why | Year Added
---- | --- | --- | ---
-Standard Notes | https://standardnotes.com/ | Standard Notes protects your notes and files with 4x-audited industry-leading end-to-end encryption, meaning only you have access to the keys required to decrypt your information. | 2023
+## Devices
 
-### Networking (A - Z)
+### Anti-surveillance glasses
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
-Pi-hole | https://pi-hole.net/ | "Network-wide ad blocking." | 2021
-Quad9 | https://www.quad9.net/ | "An open DNS recursive service for free security and high privacy." | 2021
+Reflectacles | https://www.reflectacles.com/ | "Reflectacles are designed to fool facial recognition systems that use infrared for illumination and systems using 3D infrared mapping/scanning." | 2026
+Zenni ID Guard | https://www.zennioptical.com/id-guard | "Our proprietary anti-infrared coating offers up to 80% more near-infrared protection than standard lenses, helping disrupt unwanted facial tracking." | 2026
 
-### Disinformation (A - Z)
+### Phone
 
 What | Where | Why | Year Added
 --- | --- | --- | ---
-DISARM Disinformation TTP (Tactics, Techniques and Procedures) Framework | [https://pi-hole.net/](https://github.com/DISARMFoundation/DISARMframeworks) | "DISARM is a framework designed for describing and understanding disinformation incidents. DISARM is part of work on adapting information security (infosec) practices to help track and counter disinformation and other information harms, and is designed to fit existing infosec practices and tools." | 2023
+Murena | https://murena.com/ | "deGoogled and privacy by design smartphones and cloud services." | 2023
+Silent Circle | https://silentcircle.com/ | Check out their Silent Phone. | 2023
 
 ## Opinion and Entertainment
+
+### Books (A - Z)
+
+What | Author | Where | Year Added
+--- | --- | --- | ---
+American Spies: Modern Surveillance, Why You Should Care, and What to Do About It | Jennifer Granick | | 2020
+Astro Noise: A Survival Guide to Living Under Total Surveillance | Laura Poitras | | 2020
+Beyond Fear: Thinking Sensibly about Security in an Uncertain World | Bruce Schneier | https://www.schneier.com/books/beyond_fear/ | 2020
+How to Disappear and Live Off the Grid: A CIA Insider's Guide | John Kiriakou | | 2026 
+Permanent Record | Edward Snowden | | 2019
+Surveillance and Surveillance Detection: A CIA Insider's Guide | John Kiriakou | | 2026
+The Cuckoo's Egg | Cliff Stoll | | 2017
+The Smart Girl's Guide to Privacy | Violet Blue | https://www.nostarch.com/smartgirlsguide | 2017
+
+### Comics
+
+What | Where | Year Added
+--- | --- | --- | 
+Into the Abyss: The NSA’s Global Internet Surveillance | https://www.aclu.org/infographic/abyss-nsas-global-internet-surveillance | 2017
+
+### Movies (A - Z)
+
+What | Where | Genre | Year Added
+--- | --- | --- | ---
+Ai Weiwei: Never Sorry | http://www.aiweiweineversorry.com/ | Documentary | 2017
+CITIZENFOUR | https://citizenfourfilm.com/ | Documentary | 2014
 
 ### Opinion Pieces
 
@@ -253,32 +291,6 @@ Edward Snowden’s New Research Aims to Keep Smartphones From Betraying Their Ow
 How Hired Hackers Got “Complete Control” Of Palantir | https://www.buzzfeed.com/williamalden/how-hired-hackers-got-complete-control-of-palantir | "A piece of security software called Little Snitch — which regulates data sent out from a computer to the internet — was installed on one of the information security employees’ laptops, and it flagged the suspicious upload attempt, the report says."
 Why I Hate Security, Computers, and the Entire Modern Banking System by Sarah Jeong | https://web.archive.org/web/20200109084424/https://www.vice.com/en_us/article/jpg54g/why-i-hate-security-computers-and-the-entire-modern-banking-system |
 On WikiLeaks, Journalism, and Privacy: Reporting on the Podesta Archive Is an Easy Call | https://theintercept.com/2016/10/13/on-wikileaks-journalism-and-privacy-reporting-on-the-podesta-archive-is-an-easy-call/ | 
-
-### Comics
-
-What | Where | Year Added
---- | --- | --- | 
-Into the Abyss: The NSA’s Global Internet Surveillance | https://www.aclu.org/infographic/abyss-nsas-global-internet-surveillance | 2017
-
-### Movies (A - Z)
-
-What | Where | Genre | Year Added
---- | --- | --- | ---
-Ai Weiwei: Never Sorry | http://www.aiweiweineversorry.com/ | Documentary | 2017
-CITIZENFOUR | https://citizenfourfilm.com/ | Documentary | 2014
-
-### Books (A - Z)
-
-What | Author | Where | Year Added
---- | --- | --- | ---
-American Spies: Modern Surveillance, Why You Should Care, and What to Do About It | Jennifer Granick | | 2020
-Astro Noise: A Survival Guide to Living Under Total Surveillance | Laura Poitras | | 2020
-Beyond Fear: Thinking Sensibly about Security in an Uncertain World | Bruce Schneier | https://www.schneier.com/books/beyond_fear/ | 2020
-How to Disappear and Live Off the Grid: A CIA Insider's Guide | John Kiriakou | | 2026 
-Permanent Record | Edward Snowden | | 2019
-Surveillance and Surveillance Detection: A CIA Insider's Guide | John Kiriakou | | 2026
-The Cuckoo's Egg | Cliff Stoll | | 2017
-The Smart Girl's Guide to Privacy | Violet Blue | https://www.nostarch.com/smartgirlsguide | 2017
 
 ## Donate (A - Z)
 
