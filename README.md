@@ -92,6 +92,7 @@ How to Keep Your Internet Browser History Private | http://www.teenvogue.com/sto
 Request your consumer score and data from Sift | https://web.archive.org/web/20191104102015/https://www.nytimes.com/2019/11/04/business/secret-consumer-score-access.html | | 2020
 PrivacyTools | https://www.privacytools.io | "PrivacyTools provides services, tools and knowledge to protect your privacy against global mass surveillance." | 2020
 Block List Project | https://github.com/blocklistproject/Lists | "We have lists to block ads, scams, porn, malware, ransomware & more..." | 2024
+MindDividend Shield | https://alphaengineerai.com/global-online-scam-checker.html | Free multilingual first-pass guidance for suspicious messages, links, and payment requests; use redacted examples and verify important decisions through an official channel. | 2026
 
 ## General News / Info
 
