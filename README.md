@@ -142,9 +142,11 @@ Tor Browser | https://www.torproject.org/projects/torbrowser.html.en | | 2017
 What | Where | Why | Year Added
 --- | --- | --- | ---
 CanvasBlocker | https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/ | "This add-on allows users to prevent websites from using some Javascript APIs to fingerprint them. Users can choose to block the APIs entirely on some or all websites (which may break some websites) or fake its fingerprinting-friendly readout API." | 2026
+Extension Guardian | https://github.com/laboskiriste/extension-guardian | Open source (MIT) browser extension that warns when an installed extension changes owner, gains permissions or is removed from its store, the usual signs that it was sold. No access to websites, no account, no analytics. | 2026
 HTTPS Everywhere | https://www.eff.org/https-everywhere | "HTTPS Everywhere is a Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure." | 2017
 Privacy Badger | https://www.eff.org/privacybadger | Blocks spying ads and invisible trackers; open source, created by the EFF. Focuses on privacy instead of solely ad-blocking. | 2017
 uBlock Origin (**not** "uBlock") | https://github.com/gorhill/uBlock | Free and open source ad-blocker. | 2019
+Unseen | https://github.com/laboskiriste/unseen | Open source (MIT) extension that blocks email tracking pixels in Gmail on the web, so senders cannot see when you open their emails. Access to Gmail only, no analytics. Blocking is free; an optional paid feature cleans tracked links. | 2026
 
 ### Disinformation (A - Z)
 
